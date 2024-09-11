@@ -16,7 +16,7 @@ def getPage():
 def get_link_date(link):
     titleField = link.find(class_="views-field-title")
     url = titleField.find("a")['href'] if titleField else None
-    pattern = r'.?(http[s]?://.)'
+    pattern = r'^.*?(http)'
     result = re.sub(pattern, r'\1', url)
     return result
     
