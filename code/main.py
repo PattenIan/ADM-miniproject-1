@@ -2,7 +2,7 @@ import datascraper
 
 def main():
     print("Hello, world!")
-    datascraper.getPage()
+    datascraper.get_page_links()
 
 if __name__ == "__main__":
     main()
