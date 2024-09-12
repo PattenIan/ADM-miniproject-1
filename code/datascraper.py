@@ -73,12 +73,10 @@ def gather_all_links():
     
     # Fetch links from each page
     for pl in range(0, len(page_links)):
-        sleep_timer = 1
+        sleep_timer = 10
         page_links_data = get_page_links(page_links[pl])
         all_links.extend(page_links_data)
         
-        if pl >= 15:
-            sleep_timer = 10
         time.sleep(sleep_timer)
         
         print(f"Page {pl + 1} done")
