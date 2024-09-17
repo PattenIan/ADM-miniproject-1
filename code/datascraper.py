@@ -88,3 +88,34 @@ def gather_all_links():
     dill.dump(filtered_links, open('nysd-links.pkd', 'wb'))
     print(f"Filtered links: {filtered_links}")
     print("Amount of links: ", len(filtered_links))
+    
+def get_captions(page_link):
+    try:
+        page_content = requests.get(page_link)
+        soup = BeautifulSoup(page_content.text, "lxml")
+        
+        # Find all captions
+        captions = soup.find_all(class_="photocaption")
+        
+        return captions
+    except Exception as e:
+        print(f"Error fetching page {page_link}: {e}")
+        return []
+
+def clean_captions(captions):
+    delete_character = False
+    cleaned_captions = []
+
+    for caption in captions:
+        clean_caption = ""  # Reset clean_caption for each caption
+        for character in str(caption):  # Convert caption to a string
+            if character == '<' or character == "\"":
+                delete_character = True
+            elif character == '>' or character == 'n':
+                delete_character = False
+                continue  # Skip appending the '>' character
+            if not delete_character:
+                clean_caption += character
+        cleaned_captions.append(clean_caption)
+        
+    return cleaned_captions, len(cleaned_captions)
