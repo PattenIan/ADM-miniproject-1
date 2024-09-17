@@ -109,9 +109,9 @@ def clean_captions(captions):
     for caption in captions:
         clean_caption = ""  # Reset clean_caption for each caption
         for character in str(caption):  # Convert caption to a string
-            if character == '<' or character == "\"":
+            if character == '<':
                 delete_character = True
-            elif character == '>' or character == 'n':
+            elif character == '>':
                 delete_character = False
                 continue  # Skip appending the '>' character
             if not delete_character:
