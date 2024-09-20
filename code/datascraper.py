@@ -217,15 +217,19 @@ def regex_comma_separate(captions):
         matches = re.findall(pattern, caption)
 
         matches = [match.strip() for match in matches]
+        if not matches[-1]:
+            matches.pop()
 
-        replace_and = []
+
         print(matches)
-        while matches and matches[-1].startswith("and"):
-            last = matches.pop()
-            replace_and.append(regex_with_and(last))
-        matches.extend(replace_and)
+        for index, match in enumerate(matches):
+            if match.startswith("and"):
+                matches[index] = (regex_with_and(matches[index]))
 
-        matches_caption.extend(matches)
+        if len(matches) == 2:
+            matches = potential_couple(matches)
+
+        matches_caption.append(matches)
 
     return matches_caption
 
@@ -238,6 +242,14 @@ def regex_with_and(caption):
 
     return captured_text
 
+def potential_couple(captions):
+
+    if not ' ' in captions[0]:
+        match = re.search(r'\s+(.+)', captions[1])
+
+        if match:
+            captions[0] = captions[0] + " " + match.group(1)
+    return captions
 
 def clean_captions(captions):
     delete_character = False
