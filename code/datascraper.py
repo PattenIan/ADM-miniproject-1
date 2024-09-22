@@ -194,62 +194,24 @@ def gather_all_links():
     print(f"Filtered links: {filtered_links}")
     print("Amount of links: ", len(filtered_links))
     
-def get_captions(page_link):
+def get_captions(page_link, is_photocaption):
     try:
         page_content = requests.get(page_link)
         soup = BeautifulSoup(page_content.text, "lxml")
         
-        # Find all captions
-        captions = soup.find_all(class_="photocaption")
+        if is_photocaption:
+            captions = soup.find_all(class_="photocaption")
+        else:
+            captions = soup.find_all('font', attrs={
+                'size': '1',
+                'face': 'Verdana, Arial, Helvetica, sans-serif'
+            })
         
         return captions
     except Exception as e:
         print(f"Error fetching page {page_link}: {e}")
         return []
 
-def regex_comma_separate(captions):
-    matches_caption= []
-    for caption in captions:
-        # Pattern to match names separated by commas
-        pattern = r'[^,]+?(?=(?:,| and|$))'
-
-        # Find all matches
-        matches = re.findall(pattern, caption)
-
-        matches = [match.strip() for match in matches]
-        if not matches[-1]:
-            matches.pop()
-
-
-        print(matches)
-        for index, match in enumerate(matches):
-            if match.startswith("and"):
-                matches[index] = (regex_with_and(matches[index]))
-
-        if len(matches) == 2:
-            matches = potential_couple(matches)
-
-        matches_caption.append(matches)
-
-    return matches_caption
-
-def regex_with_and(caption):
-    pattern = r'(?<=and\s)(.*)'
-
-    # Find the match
-    match = re.search(pattern, caption)
-    captured_text = match.group(1).strip() if match else None
-
-    return captured_text
-
-def potential_couple(captions):
-
-    if not ' ' in captions[0]:
-        match = re.search(r'\s+(.+)', captions[1])
-
-        if match:
-            captions[0] = captions[0] + " " + match.group(1)
-    return captions
 
 def clean_captions(captions):
     delete_character = False
@@ -265,9 +227,52 @@ def clean_captions(captions):
                 continue  # Skip appending the '>' character
             if not delete_character:
                 clean_caption += character
-        cleaned_captions.append(clean_caption)
+
+        if not clean_caption.isspace():
+            cleaned_captions.append(clean_caption)
         
-    return cleaned_captions, len(cleaned_captions)
+    return cleaned_captions
+
+import time
+
+def get_all_captions():
+    link_list = dill.load(open('nysd-links.pkd', 'rb'))
+    cutoff = datetime(2007, 9, 4)
+    with open('All_Captions.txt', 'a', encoding='utf-8') as f:
+        for link, date in link_list:
+            print(date)
+
+            link = "https://web.archive.org/web/20151024130444/" + link
+            
+            print(f"Processing: {link}")
+            failed_link_list = []
+            success = False
+            retries = 3  # Number of retries
+            
+            for attempt in range(retries):
+                try:
+                    if (date[0] < cutoff.year or 
+                    (date[0] <= cutoff.year and date[1] < cutoff.month) or 
+                    (date[0] == cutoff.year and date[1] == cutoff.month and date[2] == cutoff.day)):
+                        captions = get_captions(link, False)
+                    else:
+                        captions = get_captions(link, True)
+                    print(f"Captions fetched successfully")
+                    success = True
+                    break  # Exit retry loop on success
+
+                except Exception as e:
+                    print(f"Error fetching captions from {link} on attempt {attempt+1}")
+                    time.sleep(5*attempt)  # Wait 2 seconds before retrying
+            
+            if not success:
+                failed_link_list.append(link, date)
+            else:
+                clean_cap = clean_captions(captions)
+                for caption in clean_cap:
+                    caption = str(caption)
+                    f.write(caption)
+    f.close()
 
 
 
