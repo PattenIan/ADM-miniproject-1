@@ -1,15 +1,17 @@
 import datascraper
-import regex_patterns
 import dill
 
 def main():
-    #datascraper.gather_all_links()
-    #captions, length = datascraper.clean_captions(datascraper.get_captions("https://web.archive.org/web/20151025031513/http://www.newyorksocialdiary.com/party-pictures/2007/the-auto-show-a-book-party-and-an-anniversary", False))
+    #links = datascraper.gather_all_links()
+    #aptions, length = datascraper.clean_captions(datascraper.get_captions("https://web.archive.org/web/20151114014941/http://www.newyorksocialdiary.com/party-pictures/2015/celebrating-the-neighborhood"))
     #print(captions)
-    #print(regex_patterns.regex_comma_separate(captions))
-    #datascraper.get_all_captions()
-    pass
-    
+    #print(datascraper.regex_comma_separate(captions))
+
+    links = datascraper.get_links('nysd-links.pkd')
+    print(links)
+    print(len(links))
+
+    datascraper.get_all_captions()
 
 if __name__ == "__main__":
     main()

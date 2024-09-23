@@ -4,11 +4,13 @@ import re
 import time
 from bs4 import BeautifulSoup
 from datetime import datetime
-
+from urllib3.util.retry import Retry
 import matplotlib.pyplot as plt
 import pandas as pd
 from collections import Counter
 from datetime import datetime
+
+from requests.adapters import HTTPAdapter
 
 def get_page_links(page_link):
     try:
@@ -44,7 +46,7 @@ def get_link_date(link):
         # Convert the date string to a tuple (year, month, day)
         date = convert_date(date_str) if date_str else None
         
-        return (cleaned_url, date)
+        return (url, date)
     except Exception as e:
         print(f"Error processing link: {e}")
         return (None, None)
@@ -194,10 +196,12 @@ def gather_all_links():
     print(f"Filtered links: {filtered_links}")
     print("Amount of links: ", len(filtered_links))
     
-def get_captions(page_link, is_photocaption):
+def get_captions(page_link, session, is_photocaption):
+
     try:
-        page_content = requests.get(page_link)
-        soup = BeautifulSoup(page_content.text, "lxml")
+        response = session.get(page_link, timeout=10)  # 10 seconds timeout
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "lxml")
         
         if is_photocaption:
             captions = soup.find_all(class_="photocaption")
@@ -238,35 +242,48 @@ import time
 def get_all_captions():
     link_list = dill.load(open('nysd-links.pkd', 'rb'))
     cutoff = datetime(2007, 9, 4)
-    with open('All_Captions.txt', 'a', encoding='utf-8') as f:
+
+    session = requests.Session()
+
+    retry_strategy = Retry(
+        total=5,                # Retry up to 5 times
+        status_forcelist=[429, 500, 502, 503, 504],  # Retry on these HTTP errors
+        allowed_methods=["GET"],                    # Retry only for GET requests
+        backoff_factor=1,        # Wait 1s, 2s, 4s, etc., between retries
+    )
+
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+
+
+    with open('All_Captions2.txt', 'a', encoding='utf-8') as f:
         for link, date in link_list:
             print(date)
-
-            link = "https://web.archive.org/web/20151024130444/" + link
-            
             print(f"Processing: {link}")
             failed_link_list = []
             success = False
             retries = 3  # Number of retries
-            
+            web_link = "https://web.archive.org" + link
             for attempt in range(retries):
                 try:
                     if (date[0] < cutoff.year or 
                     (date[0] <= cutoff.year and date[1] < cutoff.month) or 
                     (date[0] == cutoff.year and date[1] == cutoff.month and date[2] == cutoff.day)):
-                        captions = get_captions(link, False)
+                        captions = get_captions(web_link,session, False)
                     else:
-                        captions = get_captions(link, True)
+                        captions = get_captions(web_link,session, True)
                     print(f"Captions fetched successfully")
                     success = True
                     break  # Exit retry loop on success
 
                 except Exception as e:
-                    print(f"Error fetching captions from {link} on attempt {attempt+1}")
+                    print(f"Error fetching captions from {web_link} on attempt {attempt+1}")
+                    f.close()
                     time.sleep(5*attempt)  # Wait 2 seconds before retrying
-            
             if not success:
-                failed_link_list.append(link, date)
+                failed_link_list.append(web_link, date)
+                f.close()
             else:
                 clean_cap = clean_captions(captions)
                 for caption in clean_cap:
@@ -274,10 +291,21 @@ def get_all_captions():
                     f.write(caption)
     f.close()
 
+def get_links(file_path: str):
+    link_list = dill.load(open(file_path, 'rb'))
+    just_links = [link_date[0] for link_date in link_list]
 
+    return just_links
 
 """
 [^,]+?(?=(?:,| and|$))
 (?<=and\s)(.*)
 (.*?)(?=\s+at\b)
+"""
+
+
+"""
+Potential match without class_photocaptions
+<font size="1" face="Verdana, Arial, Helvetica, sans-serif">Tom
+                    Colicchio and Ruth Reichl</font>
 """
