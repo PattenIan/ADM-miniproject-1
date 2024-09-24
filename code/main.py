@@ -7,9 +7,9 @@ def main():
     #print(captions)
     #print(datascraper.regex_comma_separate(captions))
 
-    links = datascraper.get_links('nysd-links.pkd')
-    print(links)
-    print(len(links))
+    #links = datascraper.get_links('nysd-links.pkd')
+    #print(links)
+    #print(len(links))
 
     datascraper.get_all_captions()
 

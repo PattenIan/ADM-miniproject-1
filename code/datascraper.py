@@ -257,14 +257,14 @@ def get_all_captions():
     session.mount("http://", adapter)
 
 
-    with open('All_Captions2.txt', 'a', encoding='utf-8') as f:
+    with open('All_Captions4.txt', 'a', encoding='utf-8') as f:
         for link, date in link_list:
             print(date)
             print(f"Processing: {link}")
             failed_link_list = []
             success = False
             retries = 3  # Number of retries
-            web_link = "https://web.archive.org" + link
+            web_link = "https://web.archive.org/web/20150913224145/" + link
             for attempt in range(retries):
                 try:
                     if (date[0] < cutoff.year or 
@@ -283,13 +283,16 @@ def get_all_captions():
                     time.sleep(5*attempt)  # Wait 2 seconds before retrying
             if not success:
                 failed_link_list.append(web_link, date)
+                print(failed_link_list)
                 f.close()
             else:
                 clean_cap = clean_captions(captions)
                 for caption in clean_cap:
-                    caption = str(caption)
+                    caption = "[" + str(caption) + "]"
+                    
                     f.write(caption)
     f.close()
+    print(failed_link_list)
 
 def get_links(file_path: str):
     link_list = dill.load(open(file_path, 'rb'))
