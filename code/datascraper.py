@@ -197,7 +197,6 @@ def gather_all_links():
     print("Amount of links: ", len(filtered_links))
     
 def get_captions(page_link, session, is_photocaption):
-
     try:
         response = session.get(page_link, timeout=10)  # 10 seconds timeout
         response.raise_for_status()
@@ -233,11 +232,10 @@ def clean_captions(captions):
                 clean_caption += character
 
         if not clean_caption.isspace():
-            cleaned_captions.append(clean_caption)
+            cleaned_captions.append(clean_caption.strip())  # Remove any leading/trailing spaces
         
     return cleaned_captions
 
-import time
 
 def get_all_captions():
     link_list = dill.load(open('nysd-links.pkd', 'rb'))
@@ -256,12 +254,12 @@ def get_all_captions():
     session.mount("https://", adapter)
     session.mount("http://", adapter)
 
+    failed_link_list = []
 
-    with open('All_Captions4.txt', 'a', encoding='utf-8') as f:
+    with open('All_Captions5.txt', 'a', encoding='utf-8') as f:
         for link, date in link_list:
             print(date)
             print(f"Processing: {link}")
-            failed_link_list = []
             success = False
             retries = 3  # Number of retries
             web_link = "https://web.archive.org/web/20150913224145/" + link
@@ -270,29 +268,29 @@ def get_all_captions():
                     if (date[0] < cutoff.year or 
                     (date[0] <= cutoff.year and date[1] < cutoff.month) or 
                     (date[0] == cutoff.year and date[1] == cutoff.month and date[2] == cutoff.day)):
-                        captions = get_captions(web_link,session, False)
+                        captions = get_captions(web_link, session, False)
                     else:
-                        captions = get_captions(web_link,session, True)
+                        captions = get_captions(web_link, session, True)
                     print(f"Captions fetched successfully")
                     success = True
                     break  # Exit retry loop on success
 
                 except Exception as e:
                     print(f"Error fetching captions from {web_link} on attempt {attempt+1}")
-                    f.close()
-                    time.sleep(5*attempt)  # Wait 2 seconds before retrying
+                    time.sleep(5 * attempt)  # Wait 5, 10, 15 seconds before retrying
+
             if not success:
-                failed_link_list.append(web_link, date)
-                print(failed_link_list)
-                f.close()
+                failed_link_list.append((web_link, date))
+                print(f"Failed: {web_link}")
+
             else:
                 clean_cap = clean_captions(captions)
                 for caption in clean_cap:
-                    caption = "[" + str(caption) + "]"
-                    
-                    f.write(caption)
-    f.close()
-    print(failed_link_list)
+                    caption = "[" + str(caption) + "]"  # Add square brackets around the caption
+                    f.write(caption + "\n")  # Write each caption on a new line with brackets
+
+    print("Failed links:", failed_link_list)
+
 
 def get_links(file_path: str):
     link_list = dill.load(open(file_path, 'rb'))

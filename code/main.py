@@ -1,17 +1,10 @@
 import datascraper
 import dill
+import regex_patterns
 
 def main():
-    #links = datascraper.gather_all_links()
-    #aptions, length = datascraper.clean_captions(datascraper.get_captions("https://web.archive.org/web/20151114014941/http://www.newyorksocialdiary.com/party-pictures/2015/celebrating-the-neighborhood"))
-    #print(captions)
-    #print(datascraper.regex_comma_separate(captions))
-
-    #links = datascraper.get_links('nysd-links.pkd')
-    #print(links)
-    #print(len(links))
-
-    datascraper.get_all_captions()
+    #regex_patterns.process_shared_last_names("Removed_empty_brackets.txt", "Short_caption_couple_names.txt")
+    regex_patterns.process_shared_last_names("Removed_photographers.txt", "All_couples_together.txt")
 
 if __name__ == "__main__":
     main()
