@@ -159,7 +159,7 @@ def remove_title(match):
 
 # Main function to process the file
 def remove_titles(input_file, output_file):
-    pattern = r'\b(?:Mayor|Lord|Lady|President|Ambassador|Mr|Mrs|Dr\.|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\s+([A-Z][a-z]+)'
+    pattern = r'\b(?:Mayor|Lord|Lady|President|Ambassador|Mr|Mrs\.|Dr\.|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\s+([A-Z][a-z]+)'
 
     # Open input file for reading
     with open(input_file, 'r', encoding='utf-8') as f:
