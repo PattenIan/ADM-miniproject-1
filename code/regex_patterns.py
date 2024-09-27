@@ -113,16 +113,16 @@ def alone_shared_last_name(caption): #This is only for captions with a single co
 def couples_in_groups_shared_last_name(caption): # This is for captions with couples in the end or in the middle
     caption_no_brackets = caption.strip().strip('[]')
 
-    match = re.search(r'(,|;|\sand)\s([A-Za-z\-]+)\s+and\s+([A-Za-z\-]+)\s+([A-Za-z\-]+)', caption_no_brackets)
+    match = re.search(r'(.*?)(\,|\sand|\swith)\s([A-Za-z\-]+)\s+and\s+([A-Za-z\-]+)\s+([A-Za-z\-]+)', caption_no_brackets)
     
     if match: # Bumped the numbers up by 1 to account for the first group "," or "and"
-        first_name = match.group(2) 
-        second_name = match.group(3)
-        last_name = match.group(4)
+        first_name = match.group(3) 
+        second_name = match.group(4)
+        last_name = match.group(5)
 
         expanded_couple = f"{first_name} {last_name} and {second_name} {last_name}"
 
-        caption_modified = caption_no_brackets.replace(match.group(0), ", " + expanded_couple)
+        caption_modified = caption_no_brackets.replace(match.group(0), match.group(1) + ", " + expanded_couple)
 
         return f"[{caption_modified}]"
     
@@ -153,6 +153,32 @@ def remove_photographers(input_file, output_file):
             if not match:
                 f_out.write("[" + caption_no_brackets + "]" + '\n')
                 
+    
+def remove_title(match):
+    return match.group(1)  # Only return the captured name
+
+# Main function to process the file
 def remove_titles(input_file, output_file):
+    pattern = r'\b(?:Mayor|Lord|Lady|President|Ambassador|Mr|Mrs\.|Dr\.|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\s+([A-Z][a-z]+)'
+
+    # Open input file for reading
+    with open(input_file, 'r', encoding='utf-8') as f:
+        captions = f.readlines()
+
+    # Open output file for writing
+    with open(output_file, 'w', encoding='utf-8') as f_out:
+        # Process each caption
+        for caption in captions:
+            # Use re.sub to replace titles with the name only
+            result = re.sub(pattern, remove_title, caption)
+            f_out.write(result)
+
+def detect_potential_nonnames(input_file, output_file):
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        captions = f.readlines()
+
+
+#(\s,|\[|and\s)\b(?:Mayor|Lord|Lady|Mr|Mrs|Dr|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\s+[A-Z][a-z]+(,|\]|\sand)
     pattern = r'\b(?:Honoree|Ambassador|president|Mayor|Lord|Lady|Mr|Mrs|Dr|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\.?\s*'
     #Needs logic
