@@ -113,7 +113,7 @@ def alone_shared_last_name(caption): #This is only for captions with a single co
 def couples_in_groups_shared_last_name(caption): # This is for captions with couples in the end or in the middle
     caption_no_brackets = caption.strip().strip('[]')
 
-    match = re.search(r'(,|\sand)\s([A-Za-z\-]+)\s+and\s+([A-Za-z\-]+)\s+([A-Za-z\-]+)', caption_no_brackets)
+    match = re.search(r'(,|;|\sand)\s([A-Za-z\-]+)\s+and\s+([A-Za-z\-]+)\s+([A-Za-z\-]+)', caption_no_brackets)
     
     if match: # Bumped the numbers up by 1 to account for the first group "," or "and"
         first_name = match.group(2) 
@@ -154,5 +154,5 @@ def remove_photographers(input_file, output_file):
                 f_out.write("[" + caption_no_brackets + "]" + '\n')
                 
 def remove_titles(input_file, output_file):
-    pattern = r'\b(?:Mayor|Lord|Lady|Mr|Mrs|Dr|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\.?\s*'
+    pattern = r'\b(?:Honoree|Ambassador|president|Mayor|Lord|Lady|Mr|Mrs|Dr|Sir|Dame|Ms|Miss|General|Captain|Doctor|Father|Mother|Son|Daughter|Professor)\b\.?\s*'
     #Needs logic
