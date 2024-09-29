@@ -1,7 +1,7 @@
 import requests
 
 # Your API key
-api_key = "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"
+api_key = "*"
 
 # The endpoint for ChatGPT API (GPT-4)
 url = "https://api.openai.com/v1/chat/completions"
