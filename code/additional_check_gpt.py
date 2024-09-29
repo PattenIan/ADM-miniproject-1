@@ -1,7 +1,5 @@
 import requests
 
-# Your API key
-api_key = "*"
 
 # The endpoint for ChatGPT API (GPT-4)
 url = "https://api.openai.com/v1/chat/completions"
@@ -9,7 +7,7 @@ url = "https://api.openai.com/v1/chat/completions"
 # The headers, including the API key
 headers = {
     "Content-Type": "application/json",
-    "Authorization": f"Bearer {api_key}"
+    "Authorization": f"Bearer "
 }
 
 prompt = "can you return only names from below keeping them line after line? And names in the same line must be kept in the same line separated by commas. Again, it will be just names. And if name is just one word ignore it. It must be full name \n\n"
