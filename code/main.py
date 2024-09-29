@@ -9,7 +9,8 @@ def main():
 
 
     graph.separate_potential_unreleated_captions("../Removed_titles.txt")
-
+    d = graph.parse_caption("Ron Iervolino, Trish Iervolino, Russ Middleton, and Lisa Middleton")
+    print(d)
 
 if __name__ == "__main__":
     main()

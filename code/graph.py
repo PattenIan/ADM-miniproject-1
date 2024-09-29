@@ -5,8 +5,8 @@ import re
 import os  # Import os module to handle file paths
 
 # Titles and prefixes to remove
-TITLES = ["Mr", "Mrs", "Dr", "Lord", "Lady", "Sir", "Dame", "Ms", "Miss", "General", "CEO", "M.D.", "Ph.D.", "Co-Chair",
-          "Captain", "Doctor", "Father", "Mother", "Son", "Daughter", "Mayor", "Hon", "Rev"]
+TITLES = ["Mr", "Mrs", "Dr", "Lord", "Lady", "Sir", "Dame", "Ms", "Miss", "General", "CEO", "M.D.", "MD", "Ph.D.", "Co-Chair",
+          "Captain", "Doctor", "Father", "Mother", "Son", "Daughter", "Mayor", "Hon", "Rev", "Gala Vice Chair" ,"Gala Chair", "Honoree" ]
 
 def separate_potential_unreleated_captions(filename):
     """
@@ -14,19 +14,24 @@ def separate_potential_unreleated_captions(filename):
     captions unrelated to names.
     """
 
-    with open(filename, 'r', encoding='utf-8') as f, open("passed", 'w', encoding='utf-8') as passed_file, open("additional_check", 'w', encoding='utf-8') as check_file:
+    with open(filename, 'r', encoding='utf-8') as f, open("passed.txt", 'w', encoding='utf-8') as passed_file, open("additional_check.txt", 'w', encoding='utf-8') as check_file:
     # Process each caption:
         captions = f.readlines()
         for caption in captions:
             cleaned_captions = parse_caption(caption.replace('[', '').replace(']', ''))
 
+            additional_check = False
             for cleaned_caption in cleaned_captions:
                 removed_lower_names = re.sub(r'\b(de|du|di|van|von)\b\s*', '', cleaned_caption)
-                if re.search(r"\b[a-z]", removed_lower_names):
-                    check_file.write(cleaned_caption + '\n')
-                else:
-                    passed_file.write(cleaned_caption + '\n')
+                if re.search(r"\b[a-z]", removed_lower_names) or len(re.findall(r'\s', removed_lower_names)) >= 3:
+                    additional_check = True
 
+            if additional_check:
+                check_file.write(",".join(cleaned_captions))
+                check_file.write("\n")
+            else:
+                passed_file.write(",".join(cleaned_captions))
+                passed_file.write("\n")
 def load_captions(filename):
     """
     Load the captions from a file and return as a list of strings.
@@ -49,6 +54,7 @@ def parse_caption(caption):
     caption = caption.replace('; ', ', ')
     # Remove anything unrelated in ()
     caption = re.sub(r'\s*\([^)]*\)', '', caption)
+    caption = re.sub(r'[A-Z]{2,}', '', caption)
     
     # Split the caption into names
     names = [name.strip() for name in caption.split(',') if name.strip()]
@@ -106,6 +112,58 @@ def graph_eda(captions):
 
     return graph_stats, G
 
+def top_100_nodes_by_weighted_degree(G):
+    # Calculate the weighted degree for each node
+    weighted_degrees = {node: G.degree(node, weight='weight') for node in G.nodes()}
+    
+    # Sort the nodes by their weighted degree in descending order and take the top 100
+    top_100_nodes = sorted(weighted_degrees, key=weighted_degrees.get, reverse=True)[:100]
+    
+    return top_100_nodes
+
+def get_centrality_analisys(G):
+
+    def get_top_10_centrality(centrality_dict):
+        # Sort nodes by centrality values in descending order and return top 10
+        return sorted(centrality_dict.items(), key=lambda item: item[1], reverse=True)[:10]
+
+    # 1. Eccentricity Centrality (requires a connected graph)
+    eccentricity_centrality = nx.eccentricity(G)
+    top_10_eccentricity = get_top_10_centrality(eccentricity_centrality)
+
+    # 2. Closeness Centrality
+    closeness_centrality = nx.closeness_centrality(G)
+    top_10_closeness = get_top_10_centrality(closeness_centrality)
+
+    # 3. Betweenness Centrality
+    betweenness_centrality = nx.betweenness_centrality(G)
+    top_10_betweenness = get_top_10_centrality(betweenness_centrality)
+
+    # 4. Eigenvector Centrality (Prestige)
+    eigenvector_centrality = nx.eigenvector_centrality(G)
+    top_10_prestige = get_top_10_centrality(eigenvector_centrality)
+
+    # 5. PageRank
+    pagerank_centrality = nx.pagerank(G)
+    top_10_pagerank = get_top_10_centrality(pagerank_centrality)
+
+    return {'eccentricity':top_10_eccentricity,
+            'closeness': top_10_closeness,
+            'betweenness': top_10_betweenness,
+            'prestige': top_10_prestige,
+            'pagerank': top_10_pagerank}
+
+# Function to get the top 100 edges by weight
+def top_100_edges_by_weight(G):
+    # Get all edges along with their weights
+    edges_with_weights = G.edges(data=True)
+    
+    # Sort the edges by their weight in descending order
+    sorted_edges = sorted(edges_with_weights, key=lambda x: x[2].get('weight', 1), reverse=True)
+    
+    # Return the top 100 edges
+    return sorted_edges[:100]
+
 def visualize_graph(G):
     """
     Visualizes the graph using a spring layout.
@@ -138,7 +196,7 @@ def visualize_graph(G):
 
 if __name__ == "__main__":
     # Load captions from the text file
-    captions = load_captions('captions.txt')
+    captions = load_captions('passed.txt')
 
     # Perform graph analysis
     result, G = graph_eda(captions)
