@@ -121,38 +121,44 @@ def top_100_nodes_by_weighted_degree(G):
     
     return top_100_nodes
 
-def get_centrality_analisys(G):
+def compute_centrality_measures(G, top_n=10):
+    """
+    Computes various centrality measures and returns the top_n individuals for each measure.
+    """
+    # Ensure the graph is connected or use the largest connected component
+    if not nx.is_connected(G):
+        largest_cc = max(nx.connected_components(G), key=len)
+        G = G.subgraph(largest_cc)
 
-    def get_top_10_centrality(centrality_dict):
-        # Sort nodes by centrality values in descending order and return top 10
-        return sorted(centrality_dict.items(), key=lambda item: item[1], reverse=True)[:10]
+    # Eccentricity centrality (lower is better)
+    eccentricity = nx.eccentricity(G)
+    top_eccentricity = sorted(eccentricity.items(), key=lambda x: x[1])[:top_n]
 
-    # 1. Eccentricity Centrality (requires a connected graph)
-    eccentricity_centrality = nx.eccentricity(G)
-    top_10_eccentricity = get_top_10_centrality(eccentricity_centrality)
+    # Closeness centrality (higher is better)
+    closeness = nx.closeness_centrality(G, distance='weight')
+    top_closeness = sorted(closeness.items(), key=lambda x: x[1], reverse=True)[:top_n]
 
-    # 2. Closeness Centrality
-    closeness_centrality = nx.closeness_centrality(G)
-    top_10_closeness = get_top_10_centrality(closeness_centrality)
+    # Betweenness centrality (higher is better)
+    betweenness = nx.betweenness_centrality(G, weight='weight')
+    top_betweenness = sorted(betweenness.items(), key=lambda x: x[1], reverse=True)[:top_n]
 
-    # 3. Betweenness Centrality
-    betweenness_centrality = nx.betweenness_centrality(G)
-    top_10_betweenness = get_top_10_centrality(betweenness_centrality)
+    # Eigenvector centrality (prestige, higher is better)
+    eigenvector = nx.eigenvector_centrality(G, max_iter=1000, weight='weight')
+    top_eigenvector = sorted(eigenvector.items(), key=lambda x: x[1], reverse=True)[:top_n]
 
-    # 4. Eigenvector Centrality (Prestige)
-    eigenvector_centrality = nx.eigenvector_centrality(G)
-    top_10_prestige = get_top_10_centrality(eigenvector_centrality)
+    # PageRank (higher is better)
+    pagerank = nx.pagerank(G, alpha=0.85, weight='weight')
+    top_pagerank = sorted(pagerank.items(), key=lambda x: x[1], reverse=True)[:top_n]
 
-    # 5. PageRank
-    pagerank_centrality = nx.pagerank(G)
-    top_10_pagerank = get_top_10_centrality(pagerank_centrality)
-
-    return {'eccentricity':top_10_eccentricity,
-            'closeness': top_10_closeness,
-            'betweenness': top_10_betweenness,
-            'prestige': top_10_prestige,
-            'pagerank': top_10_pagerank}
-
+    centrality_measures = {
+        'eccentricity': top_eccentricity,
+        'closeness': top_closeness,
+        'betweenness': top_betweenness,
+        'eigenvector': top_eigenvector,
+        'pagerank': top_pagerank
+    }
+    
+    return centrality_measures
 # Function to get the top 100 edges by weight
 def top_100_edges_by_weight(G):
     # Get all edges along with their weights

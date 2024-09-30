@@ -87,7 +87,7 @@ Geoffrey Canada,Judith M. Scheide
 Bruce Gordon,Tonya Lewis Lee,Charles Atkins
 John Utendahl,Debra Lee,Debra Martin Chase
 Jonathan Soros,Gwen Adolph
-Philip Wells,Henry "Hank" Aaron,Ted Wells,Jr.
+Philip Wells,Henry "Hank" Aaron,Ted Wells, 
 Susan Fales-Hill,Darren Walker
 Dennis Brownlee,Gabriella Morris
 Cheryl Brown Henderson,Sherrilyn Ifill,Osceola Brown
@@ -341,7 +341,7 @@ Henry Schleiff
 Jane Notar,Richie Notar,Jennifer Gould Keil
 Dan Abrams,Lynn Sherr,Peggy Siegal
 Amy Kliger,Jack Kliger,Michael McCarty
-James Dunning,Jr.,Michael McCarty
+James Dunning,Michael McCarty
 Griffin Dunne,Joanna Coles,Peter Godwin
 Stuart Sundlun,Jennifer Heidi
 Richard Johnson,David Kuhn,Leslie Stevens,Kevin Thompson
@@ -385,9 +385,9 @@ Silvia Espinal,Dorimar Morales,Erika Klein
 Honorees Andrew Malcolm,Dan Bena
 Andrew Roth
 Brooke Baran,Leslie Zeller,Tyrone Hodge,Barbara Baran
-Pierce Brosnan,Harry Connick Jr.
+Pierce Brosnan,Harry Connick  
 Pierce Brosnan
-Pierce Brosnan,Harry Connick Jr.,Brooke Goodman Cohen,Board Members
+Pierce Brosnan,Harry Connick  ,Brooke Goodman Cohen,Board Members
 Victor Garber
 Tinsley Mortimer
 Chet Burros,Claudia Burros,Mara Sandler,Ricky Sandler
@@ -395,17 +395,17 @@ Dionne Warwick
 Chris Salgardo,Carol Hamilton
 Audra Moran,Pierce Brosnan,Brooke Goodman Cohen,Chris Salgardo
 Nick Loeb,Kat Cohen
-Audra Moran,Harry Connick Jr.,Sol Schreiber
+Audra Moran,Harry Connick  ,Sol Schreiber
 Analeigh Tipton
 Kelly Rutherford
 Jillian Tapper
 Kat Cohen,Dori Cooperman
-Harry Connick Jr.,Pierce Brosnan,Chris Salgardo
-Sherry Jacobson,Harry Connick Jr.,John Hansbury,Brooke Goodman Cohen
+Harry Connick  ,Pierce Brosnan,Chris Salgardo
+Sherry Jacobson,Harry Connick  ,John Hansbury,Brooke Goodman Cohen
 Ed Labaton,Audra Moran,Sol Schreiber
 Kara Gordon,Vita Giordano
 Lila Nejad,Taryn Manning
-Lisa Lampanelli,Harry Connick Jr.
+Lisa Lampanelli,Harry Connick  
 Lieba Nesis,Joan Jedell,David Hryck
 Rob Tilberis,Jeanette Chang,Chris Tilberis
 Alison Brod,Maneesh Goyal
@@ -510,9 +510,9 @@ Pete Peterson,Michael Peterson,Jon Huntsman
 John Resnick,Billie Resnick
 Somers Farkas,Jonathan Farkas
 Sandi Mendelson,Christopher Cerf,Lynn Sherr
-Mary Kaye Huntsman,Jon Huntsman Jr.,Abby Huntsman
+Mary Kaye Huntsman,Jon Huntsman  ,Abby Huntsman
 Jon Huntsman,Karen Huntsman
-Jon Huntsman Jr.,Jeff Greenfield
+Jon Huntsman  ,Jeff Greenfield
 Vicky Ward,Richard Cohen
 Rudy Sotolongo,Wayne Reaud,Jon Huntsman,Larry Tillury,Paul Huntsman
 Glenn Horowitz,Tracey Jackson
@@ -1039,7 +1039,7 @@ Rebecca Anikstein,Lizzie Markus
 Rob Davis,Caroline Curry,Marc Tessier-Lavigne
 William von Meuffling,Clemence von Meuffling
 Alex Shuman,Marc Tessier-Lavigne
-Roger W. Ferguson,Jr.,Andrea G. Cohen,J. Barclay Collins
+Roger W. Ferguson,Andrea G. Cohen,J. Barclay Collins
 Peter W. May,James S. Tisch
 Sheel Patel,Richard Cotton
 Ron Pressman,Gail B,Alfred B. Engelberg
@@ -2545,7 +2545,7 @@ Donna D'Cruz,Tom Silverman
 Sanford Rubenstein,Elle King
 Nicole DiCocco
 Wendy Diamond
-Isiah Whitock Jr.
+Isiah Whitock  
 Alexson Roy
 Fabrizio Sotti
 Loida Nicolas Lewis,David Dinkins,Imelda Nicolas
@@ -3085,7 +3085,7 @@ Adam Arnow,Samuel W. Rosenblatt
 Jonathan L. Mechanic,Lawrence B. Benenson
 Lloyd Goldman,Morton L. Olshan,Larry A. Silverstein
 Barbara Gooss,Jane Rose,Henry Gooss
-Jennifer Zeprakla,Jonas Declorios,Laura Lofaro Freeman,Jim Freeman,Shana Cunningham,Jim Freeman Jr.
+Jennifer Zeprakla,Jonas Declorios,Laura Lofaro Freeman,Jim Freeman,Shana Cunningham,Jim Freeman  
 Kevin Sherer,Kathy Reilly
 Leslie Klotz,Debbie Bancroft,Sandra McConnell
 Raya Knight,Cliff Knight,Ann Grimm
@@ -3382,7 +3382,7 @@ Judy Katz,Bernadette Peters
 Benjamin Needell
 Lance LePere,Elissa Santisi
 Liz Smith,William Hamilton,Elizabeth Peabody
-Margo McNabb Nederlander,James Nederlander Jr.,Bette Midler
+Margo McNabb Nederlander,James Nederlander  ,Bette Midler
 Ron Finley,Mehmet Oz
 Michael Kors,Lance LePere
 Nancy Poses,Nadine Eller-Thorpe,Fred Poses
@@ -3788,7 +3788,7 @@ Rosalind Edelman,Richard Edelman
 Shannon Bauer,Elliot Aronson
 Tiffany Rhea,John Rhea
 Teri Weiss,Nate Guild,Callie Siegel,Emily Madison
-Peter Johnson,Jr.
+Peter Johnson, 
 Maria Jose Nolasco
 Melanie Shugart,Joseph Shugart
 Jaclyn Scerbak,de Nicola
@@ -3815,7 +3815,7 @@ Daryl Roth
 Susan Lucci,America Ferrera,Judith Light
 Judith Light,Loreen Arbus,America Ferrera,Tamsen Fadal
 Hannah Jacobs,Julia Monk,China Machado,Judith Light
-Scott Stanford,Tamsen Fadal,Theresa Priolo,Scott Woods,Alex Whitt,Isaiah Whitlock Jr.
+Scott Stanford,Tamsen Fadal,Theresa Priolo,Scott Woods,Alex Whitt,Isaiah Whitlock  
 Jill Herzig
 Paula Zahn,Robin Givens,Susan Lucci,Nicole Miller,Donna Hanover
 David Carpenter,Grace Carpenter,Sean Carpenter,Lauren Carpenter
@@ -3947,7 +3947,7 @@ Yan Assoun,Lana Smith
 Douglas Wurtz,Amanda Richmond Wurtz
 Chairs Michael Kaufman,Kristen Edgreen Kaufman
 Niso Bahar,Jamie Bahar
-Yan Assoun,Yung Hee Kim,Di Mondo,Claudia Avendano,Eric Javits Jr.,Polina Proshkina
+Yan Assoun,Yung Hee Kim,Di Mondo,Claudia Avendano,Eric Javits  ,Polina Proshkina
 Carney Hawks,Melissa Hawks
 Alison Minton,Peter Sallese
 Lisa Cokinos,John Cokinos
@@ -3955,7 +3955,7 @@ Barbara Regna,Di Mondo
 Allison Ecung,Dawne Marie Grannum
 Noreen Ahmad,Shruti Ganguly
 Melanie Lazenby,Chair Elizabeth Kurpis,Julia Loomis
-Eric Javits Jr.,Di Mondo
+Eric Javits  ,Di Mondo
 Stephanie Brag
 Dionisio Fontana,Lana Smith
 Michael Meltzer,Monte Albers de Leon
@@ -4321,7 +4321,7 @@ Emperor Tony Monteleone,Empress Twinkle Montgomery
 Big Freedia
 Brad Altman,George Takei
 Fortune Feimster
-Omar Sharif Jr.
+Omar Sharif  
 Wilson Cruz
 Rollerena
 Sonja Morgan
@@ -4677,7 +4677,7 @@ Meave Leakey,Patricia C. Wright
 David Hyde Pierce,Eva Wagner-Pasquier,James Morris,Nina Stemme,Joyce DiDonato,Renata Scotto,Luca Pisaroni,Susan Graham,Francesca Zambello
 Ellen S,James S
 Randall Bourscheidt,Judith Auchincloss,Emily Rafferty
-Winthrop Rutherfurd,Jr.,Ellen Sills-Levy,Susan Battley,Mary Rutherfurd
+Winthrop Rutherfurd,Ellen Sills-Levy,Susan Battley,Mary Rutherfurd
 David Hyde Pierce,Nina Stemme,James Morris,Joyce DiDonato,F. Paul Driscoll
 David Hyde Pierce,Susan Graham,Nina Stemme,Christa Ludwig,James Morris,Joyce DiDonato
 Stephen Costello,Ailyn Perez,Joyce DiDonato,Susan Graham
@@ -5134,7 +5134,7 @@ Alumni Elena Pinderhughes,Kate Davis,Danny Rothschild,Paul T. Lehr
 Bjorn Amelan,Debi Mazar,Bill T. Jones
 John B. Osborn,Robert J. McGuire,Benjamin Brafman,Charles A. Stillman
 Larry Byrne,Joan McGuire,Robert J. McGuire,Gary P. Naftalis
-Cyrus R. Vance,Jr.,Margo Catsimatidis,William J. Bratton,Rikki Klieman,John Catsimatidis
+Cyrus R. Vance,Margo Catsimatidis,William J. Bratton,Rikki Klieman,John Catsimatidis
 Bart M. Schwartz,Benjamin Brafman,Robert J. McGuire
 Benjamin Brafman,Lynda Brafman,Morty Lent,Jenny Lent
 Avi Lebor,Joanna Burton
@@ -5166,7 +5166,7 @@ Peter Cincotti
 Jude Law,Jonny Lee Miller
 Madalina Ghenea,Anca Tiribeja,Nathan Stewart-Jarrett
 Jenna Lyons,Richard Shepard,Courtney Crangi
-Isiah Whitlock Jr.,Dylan Baker
+Isiah Whitlock  ,Dylan Baker
 Angela Martini,Alicia Rountree
 Olivia Palermo,Johannes Huebl
 Sarah Armenta,Nelly Moudime
@@ -5228,9 +5228,9 @@ Michael Pugh,Regina Quattrochi
 Jacob Jasso,Wilson Villasana,Kimberly Sanchez,John Mitchell,Lauren Acri,Ed Guerra
 Thomas Ragot,Tom Cashin,Nina Tie,Andy Cohen,Susan Cappa
 Anne Livet,Scott Campbell,Billy Sullivan,Amy Sullivan,Tom Cashin,Jay Johnson
-Emily Upton,Patrick Cashin Jr.,Brock Forsblom,Georgia McElveen
+Emily Upton,Patrick Cashin  ,Brock Forsblom,Georgia McElveen
 Donna Hauser,Patrick Cashin,Suzanne O'Halloran
-Phil Gebbia,Tom Cashin,Cynthia O'Neal,Jay Johnson,Andrew Cashin,Patrick Cashin,Patrick Cashin Jr.
+Phil Gebbia,Tom Cashin,Cynthia O'Neal,Jay Johnson,Andrew Cashin,Patrick Cashin,Patrick Cashin  
 Brad Goldfarb,Scott Campbell,Alfredo Paredes
 Gene Debartolo,Sandra Long,Joost de Muinck,Jill Stuart
 Valerie Reardon,Cynthia O'Neal
@@ -5354,7 +5354,7 @@ Christopher Keramadis,Kathleen Durham
 Jaswant Lalwani,Monica Sharma
 Junia Doan
 Franck Fleury,Astrid Munera,Elkin Varona,Adriana Herrera,Arun Sinha,Cristal Chung,Andrene Denniston,Kristin Miller
-James G. Brooks,Jr.,Jesse Newhouse,Stephanie Newhouse,Hamish Bowles
+James G. Brooks,Jesse Newhouse,Stephanie Newhouse,Hamish Bowles
 Grace Fuller,Hayley Bloomingdale,Max Jones,Cynthia Smith
 Jason Phillips,Jordan Phillips
 Laura Nicklas,Dovile Drizyte
@@ -5708,7 +5708,7 @@ Richard Shane,Jenny Diaz
 Matthew Kennedy,Joey Lowenstein,Roberta Lowenstein,Temple Grandin PhD
 Sheila Lambert,Bill Lambert
 Pamela Mohr,Daniel Weinstein
-John Cooney Jr,Loretta Glucksman
+John Cooney  Loretta Glucksman
 Amy Pressler,Stacey Weiss
 Xiaohong Sang,Warren Lammert
 David,Susan,Jake Swinghamer
@@ -5783,7 +5783,7 @@ Ryan Stewart,Haley Lesavoy
 Fred Bailey,Susan Lucci
 Scott Stanford,Tamsen Fadal,Teresa Priolo,Robin Givens,Mike Woods
 Terrie Williams,Elinor Tatum
-Valerie Kempner,Isiah Whitlock,Jr.
+Valerie Kempner,Isiah Whitlock, 
 Linda Laul,Chris Laul,Susan Lucci
 Valerie Kempner,Wendy Diamond,Haley Lesavoy
 Donna Cutugno,Devon Cutugno
@@ -6775,13 +6775,13 @@ Lloyd Williams,Sara Khalifa,Joel Kaye
 Lloyd Williams,Sara Khalifa,Joel Kaye
 Hiroko Murase,Amanda K. Low,Saturo Murase
 Hiroko Murase,Amanda K. Low,Saturo Murase
-Andrea Forbes,John G. Forbes,Jr.,Wendy Reynoso
-Andrea Forbes,John G. Forbes,Jr.,Wendy Reynoso
+Andrea Forbes,John G. Forbes,Wendy Reynoso
+Andrea Forbes,John G. Forbes,Wendy Reynoso
 Joan Ai,Karen Beyer,Ellen-Jane Moss
 Joan Ai,Karen Beyer,Ellen-Jane Moss
 Bernie V,Elsie V
-John G. Forbes,Jr.,Dorian Brown,Lauren Marrus,Ray A. Cameron
-John G. Forbes,Jr.,Dorian Brown,Lauren Marrus,Ray A. Cameron
+John G. Forbes,Dorian Brown,Lauren Marrus,Ray A. Cameron
+John G. Forbes,Dorian Brown,Lauren Marrus,Ray A. Cameron
 Hassan Turner,James Amodeo,Candace Cardwell
 Hassan Turner,James Amodeo,Candace Cardwell
 Jo Taglianetti,Jackie Jones,Maria Vecchiotti,Diane Hanan,Anthony LaBruna
@@ -8103,7 +8103,7 @@ Cili Cline,Catherine Adler
 Samuel Kelley,Eileen Foy,Rebecca Cianci,Curtis Nixon,Ann Marie Folan
 Anne Easton,Kat Auster.
 SusanSondag,ElizbaethFrogel
-David Mills,Theodore V. Wells,Jr.
+David Mills,Theodore V. Wells, 
 Tonya Lewis Lee
 Sherrilyn Ifill,George Soros,Tomika Soros
 Judith Byrd,Sherrilyn Ifill,Angela Vallot
@@ -8115,7 +8115,7 @@ Thelma Golden,David Monn
 Chiara Morrison,Leonard Coleman,Gabriella Morris
 Fred Terrell,Jonelle Procope
 Laurie Robinson-Haden,David Haden
-William M. Lewis,Jr.,Carol Sutton-Lewis,Raymond McGuire
+William M. Lewis,Carol Sutton-Lewis,Raymond McGuire
 Sherrilyn Ifill,David Mills
 Elaine Jones,Ted Shaw,Sherrilyn Ifill
 David Mills,Elaine R. Jones
@@ -8179,8 +8179,8 @@ James P. Comer
 Sheri Perrone,Joe Perrone
 Sheri Perrone,Joe Perrone
 Gurnee Hart,Marjorie Hart
-E. John Rosenwald,Jr.,Ruth Westheimer
-E. John Rosenwald,Jr.
+E. John Rosenwald,Ruth Westheimer
+E. John Rosenwald, 
 Ruth Westheimer
 Jack Hyland
 Linford L. Lougheed,Lynn P. Tishman,Suzanne M. Murphy,Jeff Barker
@@ -8411,7 +8411,7 @@ Elaine Langone,Ken Langone
 Janette Avanessians,Armen Avanessians
 Lisa Pevaroff,Gary Cohn
 Mindy Nam,Mark Dehnert
-Jim Riley Jr.,Ellen Riley
+Jim Riley  ,Ellen Riley
 Sarah Fiszel,David Fiszel
 Darren Walker,Diana Taylor,Carolina Herrera,Anne Delaney,Ana Oliveira
 BreíAnn Newsome,Ana Oliveira
@@ -8929,7 +8929,7 @@ Katie Couric
 David Shaw,Bette Midler,Glenn Close
 Kate Pierson
 John Demsey,Kelly Bensimon
-Harry Connick,Jr.,Bette Midler
+Harry Connick,Bette Midler
 David Boyd
 Michael Bloomberg,Michael Kors
 Ben Needell,Charlotte Glasser
@@ -9200,9 +9200,9 @@ Chris Stegemann,Stephanie Militello
 Florence Fabricant,Richard Fabricant
 Andrea Robinson,Maureen Jerome,Andre Nasser,Lois Nasser,Barbara Thomas
 Michael Trokel,Gael Greene
-Frank Bennack Jr.,Elizabeth Diller,Michael Bloomberg,Diana Taylor,Barbara Walters,Jerry Speyer,Katherine Farley,Ricardo Scofidio,Reynold Levy
+Frank Bennack  ,Elizabeth Diller,Michael Bloomberg,Diana Taylor,Barbara Walters,Jerry Speyer,Katherine Farley,Ricardo Scofidio,Reynold Levy
 Dick Descherer,Jennie Descherer,Matilda Cuomo,Mario Cuomo
-Frank Bennack Jr.,Tamar Podell
+Frank Bennack  ,Tamar Podell
 Dan Loeb,Ellen Levine,Richard Levine
 Bill Donaldson,Arthur Fleischer
 Commissioner Ray Kelly,Lisa Oz,Mehmet Oz,Veronica Kelly
@@ -10678,7 +10678,7 @@ Henry Cornell,Vanessa Cornell
 Laura Love
 SunHee Grinnell
 Beth DeWoody
-Peter Brant Jr.
+Peter Brant  
 Morgan Hutchinson,Brett Hutchinson
 Kilian Hennessy,Elisabeth Noel Jones
 Tatiana Platt
@@ -11132,15 +11132,15 @@ Howard Stern,Bob Kraft.
 Deputy Patti Harris,Christine Taylor,Patty Newburger,Lauren Mariani.
 Deputy Patti Harris,Christine Taylor,Patty Newburger,Lauren Mariani.
 Deputy Patti Harris,Christine Taylor,Patty Newburger,Lauren Mariani.
-Bob Colacello,John Hess,Susan Hess,Emily Threlkeld,Harold Ford,Jr.
-Bob Colacello,John Hess,Susan Hess,Emily Threlkeld,Harold Ford,Jr.
-Bob Colacello,John Hess,Susan Hess,Emily Threlkeld,Harold Ford,Jr.
+Bob Colacello,John Hess,Susan Hess,Emily Threlkeld,Harold Ford, 
+Bob Colacello,John Hess,Susan Hess,Emily Threlkeld,Harold Ford, 
+Bob Colacello,John Hess,Susan Hess,Emily Threlkeld,Harold Ford, 
 Brian Kilmeade,Billy Joel,Eric Cantor,Diane Cantor,Christine Taylor.
 Brian Kilmeade,Billy Joel,Eric Cantor,Diane Cantor,Christine Taylor.
 Brian Kilmeade,Billy Joel,Eric Cantor,Diane Cantor,Christine Taylor.
-Harold Ford,Jr.,Emily Threlkeld,Matt Lauer.
-Harold Ford,Jr.,Emily Threlkeld,Matt Lauer.
-Harold Ford,Jr.,Emily Threlkeld,Matt Lauer.
+Harold Ford,Emily Threlkeld,Matt Lauer.
+Harold Ford,Emily Threlkeld,Matt Lauer.
+Harold Ford,Emily Threlkeld,Matt Lauer.
 Jayni Chase,Andrew Chapman,Emily Chase.
 Jayni Chase,Andrew Chapman,Emily Chase.
 Jayni Chase,Andrew Chapman,Emily Chase.
@@ -12429,8 +12429,8 @@ Miles Robbins
 Rita Cosby,Lauren Lawrence
 Rita Cosby
 Lauren Lawrence
-Lou Martini Jr.,Sean Stone
-Lou Martini Jr.
+Lou Martini  ,Sean Stone
+Lou Martini  
 Sean Stone
 China Tian,Cole Rumbough,Julianne Michelle,Joycelyn Engle,Miriam Weisbecker
 Melissa Berkelhammer,Maggie Norris,Susan Misner
@@ -12833,7 +12833,7 @@ Leslie Granger,Henry.
 Nonplussed.
 Nonplussed.
 Nonplussed.
-David Rockefeller Jr.
+David Rockefeller  
 Chris Nenno,Xanthe Ranger
 Elysa Goldman,Kristina Belon,Laura Kirschbaum
 Brenda Levin,Louise Kerz Cullman,Lewis Cullman,Hazel Shore,Elizabeth Strong-Cuevas
@@ -12911,12 +12911,12 @@ Bradley Stephens,Elizabeth Hagins
 Ric Barbatelli,Stephanie Barbatelli,Barbara Ostrom
 Sherrill Canet,Jonathan Kutzin
 Richard Mortimer,Dennis McAvena,Elizabeth Hagins
-Steven Golub,Thomas Fahey,Jr.,Frank D'Amelio,Frank Calamari,John Gambling
+Steven Golub,Thomas Fahey,Frank D'Amelio,Frank Calamari,John Gambling
 Frank Calamari,Manfred Altstadt
 Michael Amante
 Michael Brescia,Robert Brescia
 Steven Golub,Roger Golub
-Thomas Fahey,Jr.,Eleanor Fahey
+Thomas Fahey,Eleanor Fahey
 Dennis Schneider,Susan Schneider
 Carlos Hernandez,Claire Hernandez
 John Connolly,Ingrid Connolly
@@ -13203,9 +13203,9 @@ Eugenia Zobel,Andrew Duplessie
 Scott Buccheit,Amanda Tambling
 Barbara Zucker,Daniel Brodsky
 Bebe Brook,Paul Zofnass
-Amanda Watts,Julie Crandell,Beau Allen,Margaret Hathaway,Allison Cheek,George Wambold,Melanie Wambold,John Wambold Jr.
+Amanda Watts,Julie Crandell,Beau Allen,Margaret Hathaway,Allison Cheek,George Wambold,Melanie Wambold,John Wambold  
 Amanda Watts,Julie Crandell,Beau Allen,Margaret Hathaway,Allison Cheek
-George Wambold,Melanie Wambold,John Wambold Jr.
+George Wambold,Melanie Wambold,John Wambold  
 Nina Kempner,Meggie Kempner,Jackie Rohrbach
 Nina Kempner,Meggie Kempner,Jackie Rohrbach
 Christiana Bromberg,Madeleine Casella
@@ -13351,9 +13351,9 @@ Veronica Miele Beard,Marita Stavrou,Christina Evans
 Veronica Miele Beard,Marita Stavrou,Christina Evans
 Estelle Williams,Roe Williams
 Estelle Williams,Roe Williams
-Robert Chen,Fort Parker,Eliza Gleissner,Andrew Ward,Harold Ford Jr.,Emily Ford
+Robert Chen,Fort Parker,Eliza Gleissner,Andrew Ward,Harold Ford  ,Emily Ford
 Robert Chen,Fort Parker,Eliza Gleissner,Andrew Ward
-Harold Ford Jr.,Emily Ford
+Harold Ford  ,Emily Ford
 Sam Dangremond,Gus Dangremond
 Sam Dangremond,Gus Dangremond
 Alex Soros,Dana Taylor,Evan Speiser
@@ -13367,8 +13367,8 @@ Nicholas de Kwiatkowski,Sims Lansing
 Nicholas de Kwiatkowski,Sims Lansing
 Breonne Rittinger,Victoria Sasonkina,Dana Taylor
 Breonne Rittinger,Victoria Sasonkina,Dana Taylor
-Gene Young,Peter Kunhardt Jr.,Diana Revson
-Gene Young,Peter Kunhardt Jr.,Diana Revson
+Gene Young,Peter Kunhardt  ,Diana Revson
+Gene Young,Peter Kunhardt  ,Diana Revson
 Randy van Essen,Wayne Peterkin,Josh Flanklin,Nick Loeb,Sofia Vergara
 Randy van Essen,Wayne Peterkin,Josh Flanklin
 Nick Loeb,Sofia Vergara
@@ -13386,11 +13386,11 @@ Julie Macklowe
 Natasha Das
 Carmelo Anthony,Debra Beard
 Bernadette Peters,Peter Speliopoulos
-James Mellon,Peter Kunhardt Jr.,Gabrielle Corcos,Debi Mazar
-James Mellon,Peter Kunhardt Jr.
+James Mellon,Peter Kunhardt  ,Gabrielle Corcos,Debi Mazar
+James Mellon,Peter Kunhardt  
 Gabrielle Corcos,Debi Mazar
-Henry Louis Gates,Jr.,Dyllan McGee
-Henry Louis Gates,Jr.,Dyllan McGee
+Henry Louis Gates,Dyllan McGee
+Henry Louis Gates,Dyllan McGee
 Ruben Toledo,Isabel Toledo
 Ruben Toledo,Isabel Toledo
 Matt Rubinger,Jacqueline Kulp
@@ -14097,7 +14097,7 @@ Larry Kaiser,Lisa Woodward
 Elizabeth Morris,William Morris
 Jodi Johnson,Asa Johnson
 Lorna Brett Howard,John Howard
-Zakiya Johnson-,Kenneth B. Morris,Jr.
+Zakiya Johnson-,Kenneth B. Morris, 
 Mallika Dutt
 Michael J. Hirschhorn
 Abigail Disney,Sarah Kovner,Rachel Fine,Martin Dunn
@@ -14124,9 +14124,9 @@ Linette Semino,Matt Semino
 Annunziata Francesca Sahid,Francesca Campbell
 Michael Gleicher,Penelope Lawson,Denise Rollandi,Jake Indyk
 Cassidy,Jaime Gleicher,Johnny Podell
-Jacquelyn Sherry Coombe,Stella Keitel,Sammy Pederson,Craig Gibson Jr,Paige Pederson
+Jacquelyn Sherry Coombe,Stella Keitel,Sammy Pederson,Craig Gibson  Paige Pederson
 Jacquelyn Sherry Coombe,Stella Keitel
-Sammy Pederson,Craig Gibson Jr,Paige Pederson
+Sammy Pederson,Craig Gibson  Paige Pederson
 Matt Semino,Katie McNamara,Russell Grant
 Kerwelyn Craig,Caroline Kelso,Paige Pedersen
 Julie Dermer,Penelope Lawson,Denise Rollandi,Cassandra Seidenfeld
@@ -14201,9 +14201,9 @@ Donna Hanover,Nicole Miller,Ines Rosales,Loreen Arbus,Mike Woods
 Donna Hanover,Nicole Miller
 Ines Rosales,Loreen Arbus,Mike Woods
 Noella Coursaris Musunka,Loreen Arbus,James Masters,Christine Ponz
-Susan Lucci,Robin Givens,Robin Roberts,Paula Zahn,Camilla Barungi,Isiah Whitlock,Jr.,Margot Bingham
+Susan Lucci,Robin Givens,Robin Roberts,Paula Zahn,Camilla Barungi,Isiah Whitlock,Margot Bingham
 Susan Lucci,Robin Givens,Robin Roberts,Paula Zahn
-Camilla Barungi,Isiah Whitlock,Jr.,Margot Bingham
+Camilla Barungi,Isiah Whitlock,Margot Bingham
 Liza Huber,Barbara Lazaroff,Gabriel Mora
 Liza Huber,Barbara Lazaroff
 Gabriel Mora
@@ -14489,8 +14489,8 @@ Ryann Gastwirth,Rona Fairhead,Darcy Keller
 Vanessa Friedman,Amanda Urban
 Charlie Rose,Gillian Tett,Camille Douglas,Mort Zuckerman
 Violante Nessi,Rodrigo Bazan
-Arthur Sulzberger Jr.,Gabrielle Greene,Charlie Rose,Lionel Barber
-Arthur Sulzberger Jr.,Gabrielle Greene
+Arthur Sulzberger  ,Gabrielle Greene,Charlie Rose,Lionel Barber
+Arthur Sulzberger  ,Gabrielle Greene
 Charlie Rose,Lionel Barber
 Jane Friedman,Lionel Barber
 Andrew Sollinger,Myron Kandel
@@ -14582,7 +14582,7 @@ Mark Sanchez
 Baz Luhrmann,Catherine Martin
 Barry Levinson
 Michael Shannon
-Cuba Gooding,Jr.
+Cuba Gooding, 
 John Leguizamo
 Julia Stegner
 Harley Viera Newton
@@ -14596,7 +14596,7 @@ Shanina Shaik
 Emma Roberts
 Aubrey Plaza
 Piper Perabo
-Michael Shannon,Cuba Gooding,Jr.
+Michael Shannon,Cuba Gooding, 
 Oliver Theyskens
 Anna Wood,Dane DeHaan
 Alyssa Miller
@@ -15091,7 +15091,7 @@ Peter L. Zimroth,Stephen E. Kaufman
 Robert M. Morgenthau,Raymond W. Kelly
 Raymond W. Kelly,Patrick J. Lynch
 Rikki Klieman,William J. Bratton
-Robert B. Fiske,Jr.,James F. Gill
+Robert B. Fiske,James F. Gill
 Connie Krueger,Harvey Krueger
 Connie Krueger,Harvey Krueger
 Connie Krueger,Harvey Krueger
@@ -15386,7 +15386,7 @@ Virginia Powell,G. Pennington Egbert
 Brenda Black
 Josh Raskin,Melissa Raskin
 Josh Raskin,Melissa Raskin
-Jonathan Romero,Jr.,Lee Wagner
+Jonathan Romero,Lee Wagner
 Robin Elliott,G. Pennington Egbert,Gale A. Brewer
 Jonathan Davis,Michele Davis
 Jonathan Davis,Michele Davis
@@ -15453,7 +15453,7 @@ Trudie Styler,Sting
 Nile Rodgers
 Slater Jewell-Kemker
 Ndaba Mandela,Sam Moore
-Rosie Perez,Nile Rodgers,David Rockefeller,Jr.,Susan Rockefeller
+Rosie Perez,Nile Rodgers,David Rockefeller,Susan Rockefeller
 Devyn Abdullah
 Rosie Perez
 Mireya Rios
@@ -15505,7 +15505,7 @@ Alexandra Lebenthal
 Natalia Echavarria
 Liza Golden
 Jill Kargman
-Nicole Trunfio,Gary Clark Jr.
+Nicole Trunfio,Gary Clark  
 Alyssa Miller
 Alexis Bryan Morgan
 Olivia Chantecaille
@@ -15532,7 +15532,7 @@ Amy Lemons
 Cameron Silver
 Kim Heirston Evans
 Sigrid Agren,Oh Land,Gabriela Cadena,Eniko Mihalik,Lindsey Wixson
-Harry Brant,Peter Brant Jr.
+Harry Brant,Peter Brant  
 Crystal Renn
 Dayssi Olarte de Kanavos
 Allison Aston,Kelly Florio Kasouf
@@ -15849,7 +15849,7 @@ Jared Abrams,Brittany Weeden,Doug Patterson,Kiki Von Glinow,Christopher Wolfe,Ca
 Allison Ecung,Bunny Aisin Gioro,Nate Silver,Sarah Maslin Nir
 James Danner
 Lauren Rockefeller,Thorin Schriber
-Peter Brant Jr.,Samantha Zaitz
+Peter Brant  ,Samantha Zaitz
 Anthony Saracco,Emilie Price,Natalia Andueza,Fidel Andueza
 Emily Price,Julie Tucker,Natalia Mingo
 Fazle Husain,Blair Husain
@@ -16444,7 +16444,7 @@ Susan Gutfreund,Peggy Siegal,Jean Doumanian
 Zani Gugelmann
 Noam Cohen,Matthew Kassel,Thomas Leveritt
 Rex Reed,Billy Norwich
-Lara Yunaska,Eric Trump,Donald Trump Jr.,Vanessa Haydon
+Lara Yunaska,Eric Trump,Donald Trump  ,Vanessa Haydon
 Natlie Obradavich,Kristian Laliberte
 Desiree Gruber,Jamie Tisch,Tamara Mellon
 Julian Niccolini,Ruth Rosenberg
@@ -16730,7 +16730,7 @@ Lori Sokol,Amy Bittinger,Diana Hoadley,Lauren LoGiudice
 Donna Hanover,Maysoon Zayid,Loreen Arbus,Ali Stroker
 Loreen Arbus,Maurice DuBois,Megan Meaney,James Grant
 Margot Bingham,Tamsen Fadal
-Lauren LoGiudice,Isiah Whitlock,Jr.,Camilla Barungi
+Lauren LoGiudice,Isiah Whitlock,Camilla Barungi
 Loreen Arbus,Megan Meaney,Sheila Lennon,Nicole Sexton
 David Hryrck,Tami Kesselman,Lori Sokol
 Roderick Allen,Lori Sokol,Camilla Barungi,Niiamar Felder
@@ -16836,7 +16836,7 @@ Gaurang Trividi,Heather Trividi,Kate Gibbs
 Kirsten DeBear,Stacey Calcano,Alison Nixon
 Rich Chute,Gina Chute
 Michael Kulma,Luella Adan
-Lou Craco Sr.,Betty Craco,Lou Craco Jr.
+Lou Craco Sr.,Betty Craco,Lou Craco  
 Holly Horn,Alex Lamis
 Duncan Montero,Amber Collins,Amanda Mason
 Sarah Steinberg,Aaron Steinberg
@@ -17451,7 +17451,7 @@ Muna El Fituri,Jason Moran,Alicia Hall-Moran
 Corice Arman,Joyce Haupt,Jason Wright
 Don Bransford,Pat Bransford,Lloyd Trotter
 Rose Kirk,Cheryl Williamson
-Megan Abell,Cullen Washington Jr.,Debra Abell
+Megan Abell,Cullen Washington  ,Debra Abell
 Agnes Gund,Chuck Close
 Stephanie Phillipps,Marilyn Booker,Debra Chase
 Ken Smaltz,Erich Williams
@@ -17843,7 +17843,7 @@ Lianna Pal,Mary-Louise Parker
 Trudy Coxe,Kevin Sharkey,Martha Stewart
 John Sanchez,Caroline Kennedy
 Michael Bloomberg,Diana Taylor
-Peter Brant,Peter Brant Jr.
+Peter Brant,Peter Brant  
 Jonathan Tisch,Lizzie Tisch
 Jamee Gregory,Peter Gregory
 Lucinda Ballard,Jay Cantor,Ritchie Scaife,Stiles Colwill
@@ -17858,7 +17858,7 @@ Maurice Sonnenberg,Michael Lynch,Lucinda Ballard,Arie Kopelman,Kelly Coffey
 Eula Johnson
 Mario Buatta,Andrew Clunn
 Peter Pennoyer,Katie Ridder
-Peter Brant Jr.,Peter Brant
+Peter Brant  ,Peter Brant
 Donald Ross,Holly Bannister,Douglas Newhouse
 Leonard Lauder
 Wilbur Ross,Hilary Geary Ross
@@ -18072,7 +18072,7 @@ Count Ulrick,Countess Ulrick
 Olivia Claire Neale
 John Luke,Mark,Madison,Becky Powell,Boone Powell
 Zachary Dinan,James Dinan,Katie Dinan,Elizabeth Miller,Michael Dinan
-Mark Rodeo,Scott Rodeo,Caitlyn Rodeo,Christine Frissora,Sarah Rodeo,Scott Rodeo,Jr.
+Mark Rodeo,Scott Rodeo,Caitlyn Rodeo,Christine Frissora,Sarah Rodeo,Scott Rodeo, 
 Georgina Lara Booth,Natasha Emily Booth
 Malcolm Pray,Nicole Fischer,Sabrina Forsythe,Courtney Fischer
 Elizabeth Mitchell,Princess Lucretia Obolensky
@@ -18484,10 +18484,10 @@ Denise L Nappier,Todd English,Tommy Hilfiger
 Deborah Cogut,Denise L Nappier,Craig Cogut,David Pollak
 Harry Belafonte,William Lynch Jr
 Marian Wright Edelman,Andre Leon Talley
-Richard Greene Jr,Diane Greene
+Richard Greene  Diane Greene
 Craig Cogut,Uri Tibon,Majd Machour
 Maurice DuBois
-Maurice DuBois,Marian Wright Edelman,Marcella Maxwell,Richard Greene Jr,Deborah C Wright,Emma Jordan Simpson
+Maurice DuBois,Marian Wright Edelman,Marcella Maxwell,Richard Greene  Deborah C Wright,Emma Jordan Simpson
 Ali Wentworth
 Craig Cogut,Tommy Hilfiger
 Noella Cousaris,Abdul Zahid,John Delucie
@@ -18521,7 +18521,7 @@ Camilla Barungi,Jermaine Browne
 Javier Gomez,Nick Ayler,Mike Woods,Jonathan Lovitz
 Aljoscha Farassat,Lauren LoGiudice,Timothy Mandala
 Lori Sokol,Jonathan Lovitz,Lauren LoGiudice,Javier Gomez
-Mike Woods,Camilla Barungi,Louis Coraggio,Isiah Whitcock,Jr.
+Mike Woods,Camilla Barungi,Louis Coraggio,Isiah Whitcock, 
 Jason Oshiokpekhai,Lauren LoGiudice
 Dina Finai,Bob Kinkel
 Camilla Barungi,Chike Eleazu
@@ -19233,7 +19233,7 @@ Gwendoline Christie
 Rachel Roy,Louise Row
 Shala Monroque
 Anne Dopffer,Kalita Doolin,Alan Governar,Sonja Tremont Morgan
-Carla Darlington Jr.,Andrew Kotchoubey,Irene Goodkind
+Carla Darlington  ,Andrew Kotchoubey,Irene Goodkind
 Irene Goodkind,Jean Astrop
 Richard de Combray,Miles Morgan
 Jerry Gehman,Nancy Gehman,Elizabeth Scott,Stanley Scott
@@ -19694,7 +19694,7 @@ Barbara Landreth,Kelly Ripa
 Kelly Cleary,Ben Britain,Jack Britain,Sean Britain
 Isabel Shiva,Anya Shiva
 Dorothy Belshaw,George Belshaw,Alice Belshaw
-Erica Evans,Wesley Evans,Carter Evans,Carter Evans Jr.
+Erica Evans,Wesley Evans,Carter Evans,Carter Evans  
 Heather McAuliffe,Chloe McAuliffe
 Emma Nataraj,Sarah Nataraj
 Alva Carlston,Lydia Carlston,Ada Carlston
@@ -19705,8 +19705,8 @@ Alice Weinberg,Maddie Weinberg,Will Weinberg
 Max Schwartzreich,Leigh Schwartzreich,Dylan Schwartzreich
 Charlie Eighton,Jojo Mignone,Caroline Mignone,Allison Mignone
 Yaz Hernandez,Vilma Vale-Brennan,Renee Domingo,Esmeralda Pedroni Spinola
-Ann Achilleoudis,Graziela Dauhajre,Alina Achilleoudis,Aris Achilleoudis,Adelle Dauhajre,Arianna Achilleoudis,Marilu,Alvaro,Nicole Domingo
-Ann Achilleoudis,Graziela Dauhajre,Alina Achilleoudis,Aris Achilleoudis,Adelle Dauhajre,Arianna Achilleoudis
+Ann Achilleoudis,Graziela Dauha ,Alina Achilleoudis,Aris Achilleoudis,Adelle Dauha ,Arianna Achilleoudis,Marilu,Alvaro,Nicole Domingo
+Ann Achilleoudis,Graziela Dauha ,Alina Achilleoudis,Aris Achilleoudis,Adelle Dauha ,Arianna Achilleoudis
 Marilu,Alvaro,Nicole Domingo
 Miles Tamis,Jennifer Tamis,Chris Tamis,Henry Tamis
 Placido Domingo,Renee Domingo,Alvaro Domingo
@@ -20008,7 +20008,7 @@ Aerin Lauder,Marina Purcell
 Gabrielle Bacon,Jackie Williams,Tania Connery
 Arielle Lenza,Mark Messier,Linda Giammona
 Kevin E. Parker,Philip V. Moyles,John Q. Doyle
-Edward Skyler,Arielle Lenza,William Dawson,Jr.
+Edward Skyler,Arielle Lenza,William Dawson, 
 Salvatore Cassano,Stephen J. Dannhauser,John Q. Doyle
 Elizabeth Sanchez,John Sanchez
 Kenan Turnacioglu,PhD,James Speyer,Lori Fink,Joshua Samuelson,William Carroll
@@ -20313,7 +20313,7 @@ Christopher Williams,Janice Savin Williams
 Arthel Neville
 Judith Insell,Arturo O'Farrill,Yvette L. Campbell
 Kelsey Goldsmith,Helen Shelton,Lindsay Bubbico
-Pamela Carlton,Charles J. Hamilton,Jr.
+Pamela Carlton,Charles J. Hamilton, 
 Rona Sebastian,Mort Gleberman
 Walter Greene,Elinor Tatum,Michael Feeney
 Bill Moyers
@@ -20360,7 +20360,7 @@ Donna Moylan,Benjamin K. Chu
 Philip O. Ozuah,Ken Raske,Steven M. Safyer
 Edgar,Harriette Mandeville
 Robert Hall,Judith Hall
-Louis Fair,Jr.,Blenda Wilson
+Louis Fair,Blenda Wilson
 Brian Biles,Patricia Neuman,Jennifer Rentas,Diane Rowland
 Alan Aviles,Dan Sisto,Linda Brady
 Drs. Robert E.,Anna Kelly
@@ -20480,7 +20480,7 @@ Peggy Mejia,Alberto Mejia
 Xander Ferriera,Hanneli Rupert
 Alex Kuczynski,Caspar van Winterfeldt,Lisa Firestone van Winterfeldt
 Stewart Paperin,Lisa Firestone van Winterfeldt,Caspar van Winterfeldt
-Fernando Gentil,Lisa Gentil,Gabriella Gentil,Fernando Jr. Gentil
+Fernando Gentil,Lisa Gentil,Gabriella Gentil,Fernando   Gentil
 Lucia Hwong Gordon
 Chris Moore,Liz Kelly
 Gary Komarin,Karen Kelley
@@ -20866,7 +20866,7 @@ Nancy Shaw Raquet
 Randal Sandler,Liz Sandler
 Alice Shure,Kathryn Steinberg,Sarah Good
 Jessica Cohen,Conchita Tucker,Rachel Lane,Maria Testani
-Efrem Weiss,William Bocra Jr.,William Rose,Ian Griggs,David Noto
+Efrem Weiss,William Bocra  ,William Rose,Ian Griggs,David Noto
 Buzz Zaino,Harriet Weintraub
 Jef Cohen,George Reithoffer,Karen Johnson,Michael Robinson
 Vivian Cardia,Lisa Salibello,Linda Hoffman
@@ -20878,7 +20878,7 @@ Linda Sanders,Helena Wong
 Nancy Corzine,Alison McCall,Peter Eliel,Debra Krulewitch
 Alana Duff,Silvia Zonana,Deb Gray,Amanda Mulally
 George Schiele,Merilee Bostock,Carolee Friedlander
-David Wilshin,Bonnie Pfeifer Evans,Charles Evans Jr.,Ann Dexter-Jones
+David Wilshin,Bonnie Pfeifer Evans,Charles Evans  ,Ann Dexter-Jones
 Yanni Antonopoulos,Shirley Maytag King,Joan Sutton Straus
 Ernie Larini,Mitch Eichen,Sara Walsh
 Patricia Herrera,Muffie Potter Aston,Somers Farkas
@@ -21332,7 +21332,7 @@ Joan Schnitzer Levy,Jerry Jones
 Lauren Veronis,John Veronis
 Kate Ford,Frank Chopin
 Rick Hilton,Kathy Hilton
-Douglas Schnitzer,Jr.,Jonathan Schnitzer
+Douglas Schnitzer,Jonathan Schnitzer
 Kirk Kessler,Diana Quasha
 Irvin Levy,Joan Schnitzer Levy
 Nancy Cain Marcus
@@ -21850,7 +21850,7 @@ Sally Miller,Molly Miller
 Livvi Luttrell,Lindsay Gehan,Blake Johnston,Helen Brock,Kara Jones,Janie Cardwell
 Leila Cornelius
 McCann Girls,Niven Morgan
-Vittorio Assaf Jr,.Charlotte Assaf,Valentina Assaf,Vittorio Assaf
+Vittorio Assaf  .Charlotte Assaf,Valentina Assaf,Vittorio Assaf
 Kelly Klein
 Shanette Barth Cohen,Dennis Susskind
 Patty Raynes,Ashley Raynes
@@ -22416,7 +22416,7 @@ Lewis Rutherfurd,Elizabeth Rutherfurd
 Derek Limbocker,Nicole Limbocker
 Nick Benson,Diana Oswald,Alix Flood
 Kitty Cushing,Annie Owen Pontez
-James Coleman Jr.
+James Coleman  
 Tom Blake,Brownie Warburton
 Mathew Cullen,Norey Dotterer Cullen,Effie Ellis Taylor
 Barbara Duncan,Monique Coleman,Jamie Coleman,Kate Gubelman
@@ -22447,7 +22447,7 @@ Reed Baron,Justin Martin
 Agnes Zilyte,John Trigg,April Trigg
 The Perltones
 Christine Blank,Randall Blank
-Robert Cahill Jr.,Adele Keogh
+Robert Cahill  ,Adele Keogh
 Helen Charash,Murray Charash
 Phyllis Kessler,Douglas Harrington
 Richard Flood,Michael Stout,Barbara Gladstone,Marc Goldstein
@@ -22597,7 +22597,7 @@ Roopal Patel,Meredith Melling Burke,Valerie Boster
 Klaus Biesenbach,Todd Bishop
 Kevin McLaughlin,Debbie Bancroft,Barbara McLaughlin
 Stefano Tonchi,Lisa Perry
-Peter Brant Jr.,Samantha Zaitz,Andrew Warren
+Peter Brant  ,Samantha Zaitz,Andrew Warren
 Cindy Sherman,Lou Reed
 Charles Riley,Bettina Witteveen,Raoul Witteveen,Susan Rockefeller
 Jorn Weisbrodt,Susan Rockefeller,Klaus Biesenbach,Todd Bishop
@@ -22792,7 +22792,7 @@ Feli Thorne,Richard Lambertson
 Pam Bontecou,Len Lomangino,Diana Bontecou,Feli Thorne
 Pam Bontecou,Len Lomangino,Diana Bontecou
 Feli Thorne
-Feli Thorne,Oakleigh Thorne,Jr.
+Feli Thorne,Oakleigh Thorne, 
 Rocky Stensrud,Pat Stensrud
 Rocky Stensrud,Pat Stensrud
 Ruthie Lyman
@@ -23743,7 +23743,7 @@ Frank Calamari,Frank D'Amelio,Roger Golub,Steven J. Golub
 Claire Hernandez,Carlos Hernandez
 Mary Buckley,Anne Coté Taylor
 Diahn McGrath,Tom McGrath
-Thomas J. Fahey,Jr.,,Eleanor Fahey
+Thomas J. Fahey,,Eleanor Fahey
 Marjory Gengler Smith,Stan Smith
 John R. Gambling
 Ed Gilligan,Faye Golub,Steven J. Golub
@@ -23842,7 +23842,7 @@ Debbie Bancroft,Aviva Drescher,Tiffany Dubin
 Michelle Francis,Vivian Polak,Sally Sussman
 Clarence Page,Gov. Thomas Kean
 Marc Bouwer,Tina Bown,Harold Evans
-Drew Massuci,Brett Russo,Nolan Russo,Jr.,Tommy John,Linda Russo,Nolan Russo,Sr.
+Drew Massuci,Brett Russo,Nolan Russo,Tommy John,Linda Russo,Nolan Russo,Sr.
 Josh Elliott,Tommy John,Charles McGivney,Randi McGivney
 Auctioneer Barry Blaustein
 Sander Flaum,Mechele Flaum
@@ -23951,7 +23951,7 @@ Lorenzo Borghese,Tinsley Mortimer
 Samantha Breitenbach,Susan Breitenbach
 Jillian Crane,Al Kahn
 J.F. Thye,Jessica Feingold
-John Wambold Jr.,George Wambold,Melanie Wambold,John Wambold
+John Wambold  ,George Wambold,Melanie Wambold,John Wambold
 Kate Maloney,Helen Johnson
 Andrew Fulton,Ally Collier,Davis Ravnaas,Julia Villanova,Andrew Rice
 Nicole Phelps,Alexa Brazilian,Anne Slowey
@@ -24135,7 +24135,7 @@ Conrad Benham,Li Jun Xian
 Betty Chen,Annie Chang,Dorothy Walter,Gabe Rincon,Aimee Rincon,Anca Tohaneanu,Nathan Saperia
 Wendy Golder,Autumn Nowlin,Kelly Keelan,Melissa Dodson,Sam Corenzwit,Ross Koller
 Ken Rozanksy,Alice Higgins
-Chad Kopp,Caroline Taggart,Jessica French,Elizabeth Morency,Robert Guarino,Jr.
+Chad Kopp,Caroline Taggart,Jessica French,Elizabeth Morency,Robert Guarino, 
 Priscila Roney,Omer Corluhan,Cristiane de Oliveira,Nachiketa Rao,Joe Amann,Julian Harper,Jonathan Tanenbaum
 Brenda Wu,Linda Ma
 Dorothy Walter
@@ -24730,7 +24730,7 @@ Alexis Maybank,Alexandra Lebenthal,Alexandra Wilkis Wilson
 Catherine Hooper,Nadine Salzman,Eva Szumansky
 Jay Diamond,Ben Diamond
 Courtney Novograd,Claudia Lebenthal
-Jay Diamond,Yaz Hernandez,Valentin Hernandez Jr.
+Jay Diamond,Yaz Hernandez,Valentin Hernandez  
 Amy Butte,Larry Leeds,Alexandra Wilkis Wilson
 Bobbi Brown,Alexis Maybank
 Alexandra Lind Rose
@@ -24980,8 +24980,8 @@ Toni Colon,Warren James,Yazmin Cortizo
 Liz Peek,Bennett Marcus,Peter Regna,Arnold Rosenshein
 Liz Peek,Bennett Marcus
 Peter Regna,Arnold Rosenshein
-Warren James,Valentin Hernandez Jr.
-Warren James,Valentin Hernandez Jr.
+Warren James,Valentin Hernandez  
+Warren James,Valentin Hernandez  
 Alessandra Codinha
 Alessandra Codinha
 Jamie Farley,Jim Ciarlante,Jordan Hirsh
@@ -25074,7 +25074,7 @@ Mark Stewart,Paul Simon.
 Swett.
 Marilyn Simons,James H. Simons,Paul Simon,Richard Leakey,Meave G. Leakey,Louise Leakey,Richard L. Gelfond,Peggy Bonapace Gelfond.
 Diana Levinson,Barry Levinson
-Richard L. Gelfond,Dorothy Lichtenstein,Samuel L. Stanley,Jr.,
+Richard L. Gelfond,Dorothy Lichtenstein,Samuel L. Stanley,
 Wangechi Mutu.
 Eric Trump,Michelle Javian,Yuki Kotani,Clay Aiken
 Sonja Morgan
@@ -25516,7 +25516,7 @@ Anna Marie Holmes,Judith Hoffman,Franco Devita
 George Wayne,Vicola Vassell,Michael Hogan
 Sergey Gordeev,Karine Plantadit
 Andrew Wargo,Sara Ann Johnson,Scarlett Pildes,Carolyn Kendall Buchter,Ron Buchter
-Robert Donohoe,Nominees Nicolette Robinson,Leslie Odom,Jr.,Krystal Lee Brown,Lee Roy Reams
+Robert Donohoe,Nominees Nicolette Robinson,Leslie Odom,Krystal Lee Brown,Lee Roy Reams
 Nominees Thomas Hartwell,Krystal Joy Brown,Ronald K. Brown,Dawne Grannum
 Designer Regina Kravitz,Debra Scott,Ronny Cohen
 Carolyn Kendall Buchter,Ron Buchter,Patricia Watt
@@ -26001,7 +26001,7 @@ Jack Manning,Lyle Howland
 Tim Sweeney,Scott Mc Leod
 Stephanie Long,Terry Hamilton
 Stephanie Blythe,Laura Osnes
-Mary Klein,Stephen R. Howe,Jr.,Gala Corporate Chair
+Mary Klein,Stephen R. Howe,Gala Corporate Chair
 Veanne Cox,Rob Fisher,Musical Director,Conductor
 Jolyon Stern,Penny Gillinson,Nelle Nugent,Clive Gillinson
 Anne Hall Elser,Arnold Neis
@@ -26461,7 +26461,7 @@ Howard Stringer,Ben Hughes
 Lionel Barber,Jane Friedman,Tina Pullman
 Iva Zoric,Adam Waller,Yvette Vega,Courtney Litz,Chris Licht,Chitra Wadhwani
 Peter Brown,Vanessa Friedman
-Arthur Sulzberger Jr.,Howard Stringer
+Arthur Sulzberger  ,Howard Stringer
 Enzo Viscusi,Harold Evans,Tina Brown
 Emma Daly,John Gapper,Joe Nocera
 David Faber,Dina Habib-Powell,Richard Powell
@@ -26552,7 +26552,7 @@ Paula Dietz Morgan,Thurmond Smithgall.
 Gonzo,Kermit,Fozzie,John Tartaglia
 Jimmy Zankel,Luca Zankel
 : Lyss Stern,June Ambrose,Mary Wible Vertin
-Carlos Campos,Pascual,Valentin Hernandez Jr.,Alexis Zambrano,Carolina Crews,Karla Martinez,Flavia Kelson,Gabriel Rivera-Barraza
+Carlos Campos,Pascual,Valentin Hernandez  ,Alexis Zambrano,Carolina Crews,Karla Martinez,Flavia Kelson,Gabriel Rivera-Barraza
 Sarika Rastogi
 Liliana Cavendish,Tony Bechara
 Tony Bechara,Narciso Rodriguez,Yaz Hernandez
@@ -26838,7 +26838,7 @@ Bridgette Faupel,Calvin Swint,Austin Kay,Randy Harris
 Candace Bushnell,Randy Harris
 Jim Signorelli,Patricia Hearst Shaw
 Joseph Tobin,Kimberly Rockefeller,Jamie Figg
-Christian Rockefeller,Kimberly Rockefeller,Steven Rockefeller Jr.,Steven Rockefeller
+Christian Rockefeller,Kimberly Rockefeller,Steven Rockefeller  ,Steven Rockefeller
 Lucy de Kooning,Emma de Kooning
 Alexandra Kotur,Jonathan Becker
 Milly de Cabrol,George Farias,Alison Mazzola
@@ -26952,7 +26952,7 @@ Charles Palmer
 Dean Fearing,Tim Ryan
 Sasha Reherlo,Matthew White,Adelina Wong Ettelson,Mary Kathryn Navab,Olivia Chantecaille,Beatrice Rossi-Landi,Alexandra Lind Rose,Luigi Tadini,Leo Vlasic
 Gary Sumers,Sabrina Baldieri,Roberto Faraone Mennella,Rachel Sumers,Amedeo Scognamiglio
-Dorirn Grinspan,Peter Brant Jr.,Dylan Brant,Nick Hissum,Harry Brant
+Dorirn Grinspan,Peter Brant  ,Dylan Brant,Nick Hissum,Harry Brant
 Heather Georges,Adelina Wong Ettelson,Patrick McMullan,Pamela Ludwick
 Mark Badgley,Olivia Chantecaille,James Mischka
 Fawaz Gruosi,Lauren Fuschillo
@@ -27527,7 +27527,7 @@ Susan Rudin
 Susan Rudin
 Tish Guptan,Stephen Gargiulo,Lauren Gargiulo,Felicia Baer
 Nancy Kuhn Nussbaum,Judi Flom,Bernie Nussbaum
-William Rudolf,Hatice Morrissey,Edyth Holbrook,George Schwab,Donald Rice,Esq.,Grace Kennan Warnecke,John Connorton,Jr.
+William Rudolf,Hatice Morrissey,Edyth Holbrook,George Schwab,Donald Rice,Esq.,Grace Kennan Warnecke,John Connorton, 
 Farhana Qazi,Brendan McGuire,Stacy Rosenberg,Don Rosenberg
 Farhana Qazi,Brendan McGuire
 Stacy Rosenberg,Don Rosenberg
@@ -27754,7 +27754,7 @@ Sarah Sze
 Sam Keller,Joni Weyl,Sidney Felsen
 Lucy Mitchell-Innes,Kim Heirston
 Alexandra Lebenthal,J. Tomilson Hill,Janine Hill
-Peter Brant Jr.,Peter Brant
+Peter Brant  ,Peter Brant
 Kaws Merjos,Stavros Merjos
 Rachel Lehmann,David Maupin,Bonnie Clearwater
 Roland Augustine,Marc Spiegler
@@ -27907,7 +27907,7 @@ Shena Clarke,Richard Clarke
 Peter Sung,Stephanie Gin
 Soledad O'Brien,Lynn Whitfield,Misty Copeland
 Meredith Marshall,Yolanda Marshall
-Roger W. Ferguson,Jr.,
+Roger W. Ferguson,
 Blair Underwood,Sylvia Lewis,Byron Lewis
 Michelle Y. Lee,
 Brenda Blackmon
@@ -28910,7 +28910,7 @@ Joseph E Stiglitz
 Chelsea Clinton,Mark Hoffman
 Maria Bartiromo,Dambisa Moyo
 John Studzinski,Geoff Cutmore
-John Krenicki Jr,James Healy,Maria Bartiromo,Satpal Brainch
+John Krenicki  James Healy,Maria Bartiromo,Satpal Brainch
 Jezz Farr,Andrew Nichol
 John Casey,James Caan
 Larry Magerkurth,Barbara Magerkurth
@@ -29404,13 +29404,13 @@ Kangol
 Spike Lee,Tonya Lewis Lee
 Ne-Yo
 Celia Hart,James Earl Jones
-Leslie Odom,Jr.
+Leslie Odom, 
 Deborah Roberts,Al Roker
 Stephen Baldwin
 Deborah Lee
 Andre Royo
 Yuna Yang,Jessica Oyelowo
-Cuba Gooding,Jr.
+Cuba Gooding, 
 Georgiana Roberts
 Monique Coleman
 Giancarlo Esposito
@@ -30079,7 +30079,7 @@ Chuck Close
 Andrew Torrey,Donchi Grskovic
 Andrew Torrey
 Donchi Grskovic
-Arthur G. Altschul,Jr.
+Arthur G. Altschul, 
 Cheryl,Albert Lefkowits,Caitlin Hinz,Ayesha Anwar
 Cheryl,Albert Lefkowits
 Caitlin Hinz,Ayesha Anwar
@@ -30164,7 +30164,7 @@ Kaki Alexander,Lauren Frasco.
 Sue Mandel,Steve Mandel
 Bastian Berthon,Louis Degroote,Christian Montoya.
 Caroline Rowley.
-Justine Stamen Arrillaga,John Arrillaga,Jr.,Melissa Wu.
+Justine Stamen Arrillaga,John Arrillaga,Melissa Wu.
 Kim Fennebresque,Anne Brennan,Anne Black,Robert W. Reeder.
 Robert Kaplan,Kim Fennebresque,Randy Winn.
 Gloria Steinem,Wanda Sykes,Jane Fonda.
@@ -30178,7 +30178,7 @@ Yanique Richards.
 Soledad O'Brien,Carol Jenkins,Wanda Sykes.
 Jodie Evans,Donna Deitch.
 Maggie Wilderotter,Mike Dugan.
-Patrick Minson,Jane Quinn,Pat Jrayson.
+Patrick Minson,Jane Quinn,Pat  yson.
 Susan Bruder,Juliet Arrieta.
 Jane O'Connor,Lyss Stern.
 Matthew Bauer,Michael Barlerin,Richard Buery,Mark Edmiston.
@@ -31125,7 +31125,7 @@ Stephen Henderson
 Michelle Smith,Andy Smith
 Leslie Craige,Suzie Aijala,Laura Wolff
 Jason Miller,Julie Miller
-Sharon Handler,John Loeb Jr.
+Sharon Handler,John Loeb  
 Marilyn Calderwood,Caroline MacKenzie
 Allison Brokaw,George Brokaw
 Mary Snow,Bettina Zilkha,Diana DiMenna,Suzanne Johnson
@@ -31133,7 +31133,7 @@ Dodge Olmsted,Caroline MacKenzie
 James Scott,Barbara Scott
 Ronaldo Hoffman,Priscilla Hoffman
 Saha Hammari,Marianne Tu
-Jennifer Rich,John Loeb Jr.
+Jennifer Rich,John Loeb  
 Elyse Newhouse,Andy Oshrin
 Sandy Harris,Darren Henault
 Erisa Sekiya
@@ -31894,7 +31894,7 @@ James Gerard
 Katherine Zeller Gage,Kathleen Springhorn,Thomas Dillman,Bonnie Pfeifer Evans
 Katherine Zeller Gage,Kathleen Springhorn,Thomas Dillman
 Bonnie Pfeifer Evans
-Andrew Kotchoubey,Henry Darlington,Jr.,Patricia M. Patterson
+Andrew Kotchoubey,Henry Darlington,Patricia M. Patterson
 Diana Taylor,Vikram Pandit,Tom Brokaw.
 Vikram Pandit,Maria Otero.
 Michael Schlein,Janice Shorenstein.
@@ -32160,8 +32160,8 @@ Kelly Bensimon
 Kelly Bensimon
 Richie Akiva,Eliza Dushku
 Richie Akiva,Eliza Dushku
-Teresa Teague,Nicholas Teague,Antonio M. Gotto,Jr.,Alexander Teague,Anita Gotto
-Antonio M. Gotto,Jr.,Sanford Weill,Herbert Pardes,John Mack
+Teresa Teague,Nicholas Teague,Antonio M. Gotto,Alexander Teague,Anita Gotto
+Antonio M. Gotto,Sanford Weill,Herbert Pardes,John Mack
 Michael Stewart,William Shain Schley,Erich Voigt
 Sanford Weill,Fabrizio Michelassi,Joan Weill,Caren Heller
 Patricia Allen,Steven Corwin
@@ -32169,7 +32169,7 @@ Kelli O'Hara,Robert Grant
 Steven Corwin,Arthur Klein,George Heinrich
 Charlotte Ford
 Zev Rosenwaks,Arthur Mahon
-John Mack,Herbert Pardes,Antonio M. Gotto,Jr.,Sanford Weill
+John Mack,Herbert Pardes,Antonio M. Gotto,Sanford Weill
 Hamilton Fish,Paul Gallay,Roberto Camacho,Kim Larsen,George Hornig,Wade McGillis
 Mishele Wells,Karen Klopp,Andy Russell,Renee Beaumont,Ann Colley
 Deborah Brancato,Dan Shapley
@@ -32457,8 +32457,8 @@ Thomas Schutte,Charles Cohen,Lisa Spears,Christopher Quiles,Alejandra Eyzaguirre
 Tucker Viemeister,Paula Scher,Seymour Chwast,Thomas Schutte,Tess Schutte
 Vicente Wolf,Jamie Drake,Julia Noran,Matthew Yee
 Mario Buatta,Juan Carlos Menendez,Peter Marino
-Mitchell Wolfson Jr.,Michele Oka Doner,Alexander Gorlin,Alix Browne,Cory Jacobs,Jason Schmidt
-Mitchell Wolfson Jr.,Michele Oka Doner,Alexander Gorlin
+Mitchell Wolfson  ,Michele Oka Doner,Alexander Gorlin,Alix Browne,Cory Jacobs,Jason Schmidt
+Mitchell Wolfson  ,Michele Oka Doner,Alexander Gorlin
 Alix Browne,Cory Jacobs,Jason Schmidt
 Pilar Pablo,Juan Pablo
 Pilar Pablo,Juan Pablo
@@ -34498,7 +34498,7 @@ Robert Manice,Lisa Goddard
 Jessica Bradley,Amy Smith
 Andrew Burdon,Julie Burdon
 Caterine Milinaire,Fred Cushing,Nancy Isherwood
-John Slocum Jr.
+John Slocum  
 Elizabeth Mc,Earl Mc
 Dee Gordon,Richard Gordon
 Dee Gordon,Richard Gordon
@@ -34762,8 +34762,8 @@ Eric Lysdahl,Cindy Seward,Senator Seward,James Seward
 Eric Lysdahl,Cindy Seward,Senator Seward,James Seward
 Phil Ryland,Susie Kingsley
 Phil Ryland,Susie Kingsley
-Raymond McPhail Jr.,Michael Greene,Susie Kingsley,David Loreano,Eric Lysdahl,Henrietta,Spencer-Churchill
-Raymond McPhail Jr.,Michael Greene
+Raymond McPhail  ,Michael Greene,Susie Kingsley,David Loreano,Eric Lysdahl,Henrietta,Spencer-Churchill
+Raymond McPhail  ,Michael Greene
 Susie Kingsley,David Loreano,Eric Lysdahl,Henrietta,Spencer-Churchill
 Claudia Clark,Stephanie Patrick,Laird Elting
 Claudia Clark,Stephanie Patrick,Laird Elting
@@ -35346,8 +35346,8 @@ Eric Kelly,Joyce Mattera,Holt McCallany,Joseph Mattera
 Julia Masi,Noah Bean
 Clif Thorn,Joyce Mattera,Bryan Batt
 Fiona Byrne,Lariss Kondracki,Raykisa Kondracki,Matthew McCue,Eilis Kirwan,Jake Schonfeld
-Albert Hammond Jr.
-Albert Hammond Jr.
+Albert Hammond  
+Albert Hammond  
 Patricia Field,Fern Mallis
 Patricia Field,Fern Mallis
 Meredith Ostrom
@@ -36035,8 +36035,8 @@ Jane Pontarelli,Joe Pontarelli
 Jane Pontarelli,Joe Pontarelli
 Peggie Walker,Tia Walker
 Peggie Walker,Tia Walker
-Robert Sepulveda,Jr.,Fran Farber
-Robert Sepulveda,Jr.,Fran Farber
+Robert Sepulveda,Fran Farber
+Robert Sepulveda,Fran Farber
 Kristian Laliberte,Miguelina Gambaccini,Justin Belmont,Marcy Warren,Eden Williams,Terri Speiser
 Kristian Laliberte,Miguelina Gambaccini,Justin Belmont
 Marcy Warren,Eden Williams,Terri Speiser
@@ -37236,7 +37236,7 @@ Zaria Taylor,Musukulah Kromah
 Deyna Nelson,Stephen Appea,Principal 327
 Keith McCormick,Stephanie Andujar
 Ray,Mark,Nicole,Sergio Fornasiero,Virginia Hersek
-Arquan Leonard Jr,Voni Deeds
+Arquan Leonard  Voni Deeds
 Abbey Muneer,Laura Korpa
 Anthony Carter,Braynard Brown,Kevin Boothe
 Shmuel Meitar,Dreamers
@@ -37260,7 +37260,7 @@ Fred Frazier,Helen Frazier
 Thierry Cazeau,Brandielee Johnson,Jamie Caceres,Harold Friedman
 Sherry Ulery,Traci Burgess,Barbara Byrd-Bennett
 Kristen Campbell,Seppy Basili
-Llewellyn P. Haden,Jr.,Joseph S. Brosnan
+Llewellyn P. Haden,Joseph S. Brosnan
 Catherine Diamond,Eugene Lang,Jan Liss
 Ray Llanos,Keith McCormick,Catherine Diamond,Eugene Lang,Jan Liss
 Joan Azrack,Annie Ballaine
@@ -37512,7 +37512,7 @@ Ellen Barkin
 Ellen Barkin
 Malaak Compton-Rock,Chris Rock
 Malaak Compton-Rock,Chris Rock
-Harry Connick Jr.
+Harry Connick  
 Marg Helgenberger
 Whoppi Goldberg
 Norbert Leo Butz
@@ -37810,7 +37810,7 @@ Grace Karl,Jacquelyn Karl
 Rupak Kobawala,Survi Kobawala
 Lillian Fable,Greg Kelly
 Robert Milisits,Louise Raymond
-Percy Preston Jr.,Yesenia Zuniga,Robert Johnson
+Percy Preston  ,Yesenia Zuniga,Robert Johnson
 Samantha Roman,Tiffany Arce
 Hartley du Pont,Lauren Lawrence
 Margaret Chase
@@ -38231,7 +38231,7 @@ Kyle Reiter,Gayatri Devi
 Sig Ackerman,Cecelia McCarton
 Ellie Libby,James Libby
 Andrew Right,Zibby Right
-Edgar Cullman,Jr.,Ellie Cullman,Samuel Guillory,Elizabeth Guillory,Stuart Oravetz
+Edgar Cullman,Ellie Cullman,Samuel Guillory,Elizabeth Guillory,Stuart Oravetz
 Kenneth L. Davis,Bonnie M. Davis,Lisa Blau,Jeff T. Blau,Leni May,Peter W. May
 James Crystal,Andrew Saul,Denise Saul,Jonathan Crystal,Darcie Crystal,Jean Crystal
 Beverly Riddick,Victor Franklin,Carla Harris
@@ -38281,7 +38281,7 @@ Andy Reed,Wife
 Brian Stokes Mitchell,Bonnie Comley,Stewart Lane
 Liz Calloway
 Bebe Neuwirth,John Tisch,Lizzy Tisch
-Margot Niederlander,Jimmy Niederlander Jr.
+Margot Niederlander,Jimmy Niederlander  
 Earvin "Magic" Johnson,Joset B. Wright
 Kevin Liles,Erika Liles
 Julie Macklowe,Hilary Rhoda,Shirin Von Wulffen
@@ -39030,7 +39030,7 @@ Calogero Lumia,Liliane Shalom,Jana Jaffe,Sebastian Raspanti
 Carrie Hung,Kent Swig
 Catherine Avery,Eliana Chinn
 Chris Meigher,Grace Meigher
-Dave Williams,Dave Williams,Jr.
+Dave Williams,Dave Williams, 
 Dariya Caron,Pingyi Lee Noto
 Peggy Siegal,Alan Valdez
 Gregg Slotnick,Victoria Vicuna
@@ -39392,7 +39392,7 @@ Susan James,Jamie de Roy
 Heike Vogel,Peter Fitzpatrick
 Arthur Becker,Vera Wang
 Barry Gimelstob,Patricia Gimelstob
-John L. Loeb,Jr.,Sharon Handler
+John L. Loeb,Sharon Handler
 Michelle Oates,Barry Klarberg,Bart Oates
 Sylvia Ferguson,Alistair Ferguson
 John Nelson,Maggie Carey,Mia Jung,John Ike
@@ -40874,7 +40874,7 @@ Ann Nasti,Nancy Amoia
 Mitchell Fox,Ilene Schneider,Howard Schneider
 Sal Cataldi,Richard Gelfond
 Susan Stanley,Lauren Kaushansky,Ellen Li
-Samuel Stanley Jr.,Ed Testa
+Samuel Stanley  ,Ed Testa
 Jim Simons,Marilyn Simons,Richard Leakey,Cary Staller
 Laurie Gray,Richard Leakey
 Antoinette McGovern,Beth Rosenfeld,Mindy Lee
@@ -41000,7 +41000,7 @@ Asher Simcoe,Lauren Painter,Yann Coatanlem,Emilie Hsu
 Sasha Gonzalez,Daniel Montilla,Hamish Bowles,Richard Pulik
 Sasha Gonzalez,Daniel Montilla
 Hamish Bowles,Richard Pulik
-Lee Hallman,James G. Brooks,Jr.,Carter Tatum,Martha West
+Lee Hallman,James G. Brooks,Carter Tatum,Martha West
 Athena Georgiadis,Jonathan Klein,Spencer Waldorf,Jen Mendenhall
 Alexander Romanovsky,Jonathon Potter,Alexis Minasian
 Lauren Barrocas,Guest
@@ -41037,7 +41037,7 @@ Tonya Miller
 Cardiologist Margaux Cvar,Alex Shein
 Joseph de Massia,Joelle de Lacroix
 Artist Hanne,Gigi Carey,Colleen Carey
-Maureen Case,Ted Danson,David Rockefeller Jr.,Bettina WitteVeen,Susan Rockefeller,Jo Champa
+Maureen Case,Ted Danson,David Rockefeller  ,Bettina WitteVeen,Susan Rockefeller,Jo Champa
 Julie McCabe,Candy Pratts Price,Carlos Mota,Karolina Kurkova,Jen Brill
 Sarah Langham,Thomas Moore,Laurie Rodnick
 Linda Greer,Frances Beinecke,Carrie Tunick
@@ -41593,7 +41593,7 @@ Diane Max,Adam Max
 Awards
 Chrisette Michelle
 Carl Ware,Javier Goizueta,Lee Dunham,Linda Dunham
-Irving Lorenzo Jr.
+Irving Lorenzo  
 Joseph Perella,Ray McGuire
 Ingrid Saunders Jones,Terrie Williams
 Joseph Perella,Della Britton Baeza
@@ -42085,22 +42085,22 @@ Mike Woods,Michael Jack,Mary Jack,David Dinkins
 Stanley Gleaton,Hazel Dukes,Hon. John Liu,Judge Tanya Kennedy
 Brenda Blackmon,Mike Woods,Harris Faulkner
 Matilda Raffa Cuomo,Carolyn McClain Young
-Philip Banks,Jr.,Scarlet Pressley-Brown,Chris Graham,Hilton Smith
+Philip Banks,Scarlet Pressley-Brown,Chris Graham,Hilton Smith
 Brenda Blackmon,Matilda Raffa Cuomo,Mario Cuomo
 Ty Stone-Adams,Edward Goldberg
 Audrey Bernard,Mary Jack
 Brenda Blackmon,Harris Faulkner,Pamela Fisher
 Michael Jack,Thomas Dortch
-Philip Banks,Jr.,Glenn Rice
+Philip Banks,Glenn Rice
 Patricia Grayson,Stanley Grayson
 David Dinkins,David Brand,Andrew Young
 Walter Moseley,Mario Cuomo
-Philip Banks,Jr.,Glenn Rice,German Darnley,Hilton Smith
-Philip Banks,Jr.,Roberto Huie,Matilda Cuomo,Hilton Smith
+Philip Banks,Glenn Rice,German Darnley,Hilton Smith
+Philip Banks,Roberto Huie,Matilda Cuomo,Hilton Smith
 Stephen Boyd,Cathy Black
 John Williams,Jennifer Williams
 Margot Jordan,Rev. A.R. Bernard,Sr.
-Philip Banks,Jr.,Bruce Simms,Myron Williams,Hilton Smith
+Philip Banks,Bruce Simms,Myron Williams,Hilton Smith
 Rev. Jacques DeGraff,Hon. John Liu,Maria Maxwell
 Alexa Alemanni
 Bob Friedman,Lizzy Plapinger
@@ -42233,7 +42233,7 @@ Lauren Sanchez
 Naomi Watts
 Seth MacFarlane
 Andy Cohen
-Jude Law,Susan Downey,Robert Downey Jr.
+Jude Law,Susan Downey,Robert Downey  
 Vera Farmiga
 Amanda Seyfried
 Cheryl Hines
@@ -44127,7 +44127,7 @@ Betsy Pochoda,Michael Ellison
 William Motley
 Nathalie Gerschel Kaplan,Jay Snyder,Alexandra Kotour
 Alice McAdams,Clinton Howell,Courtney Conway
-Stephanie Seymour,Peter Brant Jr.
+Stephanie Seymour,Peter Brant  
 Stephen Corelli,Francesca Petrucci
 Sam Spearin,Anna Timone
 Ranney Moran,Rob Mcmenamin
@@ -46137,15 +46137,15 @@ Mark Gilbertson,Michele Gradin
 Susan Slater
 Melanie Wambold,Nancy O'Sullivan
 Audrey Meyer,Danny Meyer
-Elizabeth Diller,Ric Scofidio,Frank Gehry,George Campbell Jr.
+Elizabeth Diller,Ric Scofidio,Frank Gehry,George Campbell  
 Frank Gehry
 Audrey Meyer,Danny Meyer,Doug Hamilton,Judy Hamilton
 Ric Scofidio,Elizabeth Diller,Carmi Bee
 Fred Bernstein,Toshiko Mori
 Marina Abramovic
-George Campbell Jr.,Mary Schmidt Campbell,John Carr,Esq.
+George Campbell  ,Mary Schmidt Campbell,John Carr,Esq.
 Martha Stewart,Alex Postman,Ina Saltz
-Eva Diaz,Emily Apter,George Campbell Jr.
+Eva Diaz,Emily Apter,George Campbell  
 Honorees Mark Teixeira,Madelon Rand,Pam Shriver
 Allan,Josh,Madelon,Emily,Larry Rand
 Dorine Gordon,Vicky Sbarro
@@ -46170,7 +46170,7 @@ Christopher Galvin
 Charles Brandes
 Todd Hassen,Thomas Hassen,Tyler Hassen
 Charles F. Nadler
-Colin Eckles,Alexis Tobin,David R. Hamilton,Steven Rockefeller,Jr.
+Colin Eckles,Alexis Tobin,David R. Hamilton,Steven Rockefeller, 
 Maria Manetti Farrow
 Ducan Goldie-Morrison
 William Hood,Tyler Hood,Seide Ouch
@@ -46276,8 +46276,8 @@ Anna Wintour,Bee Shaffer
 Anna Wintour,Bee Shaffer
 Hamish Bowles
 Hamish Bowles
-Carolina Herrera Jr.,Carolina Herrera
-Carolina Herrera Jr.,Carolina Herrera
+Carolina Herrera  ,Carolina Herrera
+Carolina Herrera  ,Carolina Herrera
 Jacquelyn Jablonski,Thakoon
 Allison Sarofim,Guest
 Eugenia Gonzalez Ruiz,Michael Bastian
@@ -46830,7 +46830,7 @@ Irwin Staller,Jan Eisenman,Lou Gasorek,Laurie Landeau
 Jamie Nicholls,Eduardo Mestre,Gillian Mestre,Harry Slatkin,Laura Slatkin
 Jamie Nicholls,Eduardo Mestre,Gillian Mestre
 Harry Slatkin,Laura Slatkin
-John F. Nash,Jr.,Mary-Claire King,Evelyn Lauder,Bruce Stillman
+John F. Nash,Mary-Claire King,Evelyn Lauder,Bruce Stillman
 Eduardo Mestre,Terry,Bob,Mary Lindsay
 John Passarelli,Heidi Smith,Mary Lindsay,Jan Eisenman
 John Passarelli,Heidi Smith
@@ -47834,7 +47834,7 @@ Jock Soto
 Ken Maldonado,Kate Weare
 Lane Harwell,Lucy Sexton
 Lucy Sexton,Danil Simkin
-Gus Solomons Jr.,Philip Treviño
+Gus Solomons  ,Philip Treviño
 Marc Kirschner,Susanna Bozzetti
 Andrea Sholler,Julia Kelly,Norton Owen,Ximena Garnica
 Phyllis Lamhut,Miriam Wesson
@@ -48097,12 +48097,12 @@ Kathleen Springhorn,Alison Petretti
 Elizabeth Scholtz,Robin Horton,Sara Hobel
 Sara Hobel,Esther "Faity" Tuttle,Jane Cooke
 Allison White,Esther "Faity" Tuttle,Kathleen Springhorn,Suzy Bales,Nancy Moon
-Alex Donner,Charles Lucas,Jr.,M.D
+Alex Donner,Charles Lucas,M.D
 M.P. Naud,Audrey Svensson,Kim Se Yong,Sun Jackie Kim
 M.P. Naud,Audrey Svensson
 Kim Se Yong,Sun Jackie Kim
 Mila Tuttle,Thomas Tuttle
-Caroline Salas,Jack Gage,Jr.
+Caroline Salas,Jack Gage, 
 Michael Martin,Lollie Britt,Suhair Khan,Nadir Khan
 Sylor Lin,Brett Higgins,Andy Prozes,Somaly Mam,SoNa
 Chris Talbott,Hollie Cislo,Laurie Holden,Bill Livermore
@@ -48679,7 +48679,7 @@ Alistair Clark,Blair Clark
 Alistair Clark,Blair Clark
 Janet Ross,Amy P. Goldman
 Ricardo Fernandez,Patricia Fernandez
-Charles A. Dana,Jr.,Karl Wamsler,Caroline Wamsler
+Charles A. Dana,Karl Wamsler,Caroline Wamsler
 Coleman Burke,Susan Burke
 Mary Davidson,Maureen Chilton,Jean Burn
 Deborah Royce,Charles Royce
@@ -51896,7 +51896,7 @@ Rob Rubio,Stacy Rubio
 Ron Buchter,Patrick Askin
 Marcia Miller,Hy Miller
 John McLaughlin
-Suzanne Marchisello,John Czygier Jr,Dorinda Hawkins
+Suzanne Marchisello,John Czygier  Dorinda Hawkins
 Stephen Blacker,Ruth Summers
 Nicole Labella Radoccia,Deborah Benjamin
 Wendy Keys,Jaye Roter
@@ -54184,7 +54184,7 @@ David Bradley
 Elizabeth Baker Keffer
 Alan Greenspan
 James Bennet
-George W. Casey,Jr.
+George W. Casey, 
 Anna Deavere Smith
 Walter Isaacson,Barbra Streisand,Jane Lubchenco,Andrea Mitchell
 David Drummond
@@ -54862,7 +54862,7 @@ Dana Barese,Dianne LaRocca
 Shedy,Ronald Harris
 Jana,Jamie,Anna
 Arnie Rosenshein,Paola Rosenshein
-Marisa,Walter,Jr. Lindsay,Walter,Leslie Tomensen
+Marisa,Walter,  Lindsay,Walter,Leslie Tomensen
 Georgie Lewis,Eugenie Daniel,Adie Von,Mamie Von Gontard
 Reha Kocatas,Kathleen Kocatas
 Read,Kathy,Eliza,Bill McKendree
@@ -55294,7 +55294,7 @@ David Mandler,John Weiss
 David Mandler,John Weiss
 James LaForce,Stephen Henderson
 James LaForce,Stephen Henderson
-Peter Brant Jr.,Mercedes Kilmer,Harry Brant
+Peter Brant  ,Mercedes Kilmer,Harry Brant
 Starshell J,Mary J
 Carol Alt
 Carol Alt
@@ -55397,7 +55397,7 @@ Ruth Westheimer,Howard Rubenstein
 Lucinda Franks,Jennifer Raab,Ruth Westheimer
 Jeffrey Tabak,Ruth Westheimer,Patti Kenner
 Jennifer Raab,Robert Morgenthau
-Cy Vance Jr.,Manhattan District Attorney
+Cy Vance  ,Manhattan District Attorney
 Fran Ehrlich,Fran Klingenstein,David Freedberg,Karen Freedberg,Felice Axelrod
 Charles Ross,Haneesah Myers,David Ortiz,Lee Daniels,Sherri Shepherd,Arisharasa Ambak,Alma Osorio
 Joe Hall,Sherri Shepherd,Lee Daniels,Evan Shapiro
@@ -55543,14 +55543,14 @@ Darren Walker,Joshua David
 Darren Walker,Joshua David
 Megan Bell,Heather McDowell,Philippa Ward
 Jeffrey Wright,Brooke Garber Neidich
-Donald Mullen Jr.,Natalie Garcia
-Donald Mullen Jr.,Natalie Garcia
+Donald Mullen  ,Natalie Garcia
+Donald Mullen  ,Natalie Garcia
 Scott Buccheit,Allie Rizzo
 Scott Buccheit,Allie Rizzo
 Joel Sternfeld,James Horner
 Joel Sternfeld,James Horner
 Anne Somjen,Mike Green
-Anisa Kamadoli Costa,Donald Mullen Jr.,Fernanda Kellogg
+Anisa Kamadoli Costa,Donald Mullen  ,Fernanda Kellogg
 Mickey Rourke,Oliver Stone
 Tariq Alli,Fernando Sulichin
 David Hume,Marisa Berenson
@@ -55751,8 +55751,8 @@ Roland Martin,Harris Hoffner
 Jennifer Lopez,Marc Anthony
 Danny Glover
 Danny Glover
-Willie Wilkerson,Jr.,Aretha Franklin
-Willie Wilkerson,Jr.,Aretha Franklin
+Willie Wilkerson,Aretha Franklin
+Willie Wilkerson,Aretha Franklin
 Rev. Al Sharpton
 Rev. Al Sharpton
 Marcia Gay Harden
@@ -56517,7 +56517,7 @@ Sandy Harris,Darren Henault
 Mario Buatta
 Mario Buatta
 Claudia Lebenthal,Muffie Potter Aston,Gillian Miniter,Alexandra Lebenthal,Somers Farkas
-Eric Javits Jr.,Edmundo Huerta
+Eric Javits  ,Edmundo Huerta
 Sarah Evans,Susan Fales Hill
 Georgette Farkas,Ted Farris
 Charlotte Assaf,Vittorio Assaf
@@ -56582,7 +56582,7 @@ Jean Shafiroff,Nicole Miller,Katlean de Monchy
 Melanie Holland,Amy Hoadley
 Tanya Higgins
 John Moorhead,Jonnifer Moorhead
-Charlotte Bronstrom Assaf,Vittorio Assaf Jr.,Vittorio Assaf
+Charlotte Bronstrom Assaf,Vittorio Assaf  ,Vittorio Assaf
 Lori Sheppard,Migueli Labriola
 Francesca Beale,Barbara Maddock
 Elizabeth Fasolino
@@ -56726,8 +56726,8 @@ Demitri Suvastopoulo,Caterine Suvastopoulo
 Catherine Williams,Arthur Williams
 William Rondina,Gigi Haber,Giovanni LoFaro
 Shayne Doty,Jeanne Jones,Coleman McCartan
-Edmundo Huerta,Eric Javits Jr.
-Edmundo Huerta,Eric Javits Jr.
+Edmundo Huerta,Eric Javits  
+Edmundo Huerta,Eric Javits  
 Jim Thornton,Ann Thornton
 Jim Thornton,Ann Thornton
 Angele Parlinge,Mish Tworkowski
@@ -56838,7 +56838,7 @@ Sophie Cox,Paul Wiseman
 Michele Mactavish,Cameron Mactavish
 Robert A.M. Stern,Niall Hobhouse
 Presenter Charles Miers,John Donatich
-Mehmet Oz,Lisa Oz,John Mack,Iris Cantor,Herbert Pardes,Antonio Gotto,Jr.,Steven Corwin
+Mehmet Oz,Lisa Oz,John Mack,Iris Cantor,Herbert Pardes,Antonio Gotto,Steven Corwin
 Orli Etingin,Charlotte Ford,Iris Cantor,Lisa Perry
 Drs. Andrew Schafer,Peter Okin,Chu Wong
 John Mack,Peter Schlegel
@@ -56851,7 +56851,7 @@ Adrianne Silver,Bill Silver
 Alex Silverman,Lauren Hochfelder Silverman
 Ellen Holzman,Ian Holzman
 Andrew Blauner,Leslie Blauner
-Edgar Cullman,Louise Cullman,Ellie Cullman,Edgar Cullman,Jr.
+Edgar Cullman,Louise Cullman,Ellie Cullman,Edgar Cullman, 
 Michael Brodman,Klein,Nancy Klein
 Joel Surnamer,Maura Surnamer
 Howard Katz,Ellen Katz
@@ -57051,7 +57051,7 @@ Gillian Miniter,Doug Blonsky,Kamie Lightburn
 Sydney Apple,Virginia Apple,Annesley Apple
 Yesim Philip,Matthew Philip
 Eleanora Kennedy,Anna Safir,Ava Safir
-Lilly Beach,Katheryn Beach,Gentry Beach Jr.
+Lilly Beach,Katheryn Beach,Gentry Beach  
 Susannah Kagan
 Andrea Dubois,Brandon Dubois
 Kamie Lightburn
@@ -57645,7 +57645,7 @@ Valerie Steele,Isabel Toledo
 John Major,Sharon Phair,Ruben Toledo
 Peyton Cochran,Petra Levin
 Ruben Toledo,Isabel Toledo,Glenda Bailey,Stephen Sumner
-John Catsimatidis,Margo Catsimatidis,John Catsimatidis Jr.,Andrea Catsimatidis,Christopher Nixon Cox
+John Catsimatidis,Margo Catsimatidis,John Catsimatidis  ,Andrea Catsimatidis,Christopher Nixon Cox
 Robert Zimmerman,Domna Stanton
 Robert Zimmerman,Domna Stanton
 Abby Nelson,Gene Gurkoff
@@ -57703,7 +57703,7 @@ John Dainelson,Ashok Rabheru
 Christopher Heath,Lisa Selby
 Richard Steinberg,Renee Steinberg,Roric Tobin
 Prince Edward,Geofrey Bradfield
-Eric Javits Jr.,Edmundo Huerta
+Eric Javits  ,Edmundo Huerta
 Gillian Miniter,Sylvester Miniter
 Barbara Taylor Bradford,Robert Bradford
 Blake Morris,Liliana Cavendish
@@ -57940,7 +57940,7 @@ Heather Randall,Cynthia Lufkin
 Jimmy Nederlander,Margo Nederlander
 Grace,Todd,Kelly,Ella Guenther
 Schuyler Hazard,Cynthia Lufkin,Patrick Lufkin,Joyce Ford
-Matt,Matt Jr.,Sean,Timmy,Mary Lee Davis
+Matt,Matt  ,Sean,Timmy,Mary Lee Davis
 Olga Yarce,Emma Velasquez,Diana Castano
 Margaret,Kip,Blythe Chase
 Kathy,Kate,Colleen Goldrick
@@ -58025,7 +58025,7 @@ Kathy Rayner,Tony Kiser
 Jaquelin T. Robertson,Catia Chapin
 Sherri Shepherd,Susan Patricof,William J. Snipes,Stephanie Mills,Scott M. Mills
 Alan J. Patricof,Audrey Smaltz,Susan Patricof,Christine Quinn,Arva Rice,Noel Hankin
-Noel Hankin,David N. Dinkins,Sherri Shepherd,Susan J,Alan J. Patricof,William Thompson,Jr.
+Noel Hankin,David N. Dinkins,Sherri Shepherd,Susan J,Alan J. Patricof,William Thompson, 
 Sherri Shepherd,Steven Boyd
 David Banks,Arva Rice
 Scott Mills,Debra Lee,Marc Morial,Arva Rice
@@ -58233,7 +58233,7 @@ Bethenny Frankel
 Sheri Biller,Kristin Chenoweth
 Honey Cook,Ann Levine
 Robin Rothfeld,Kay Unger,Caroline Ingram
-Jim Fuld Jr.,Kristin Chenoweth,Lisa Kaye Fuld,Sean Hayes
+Jim Fuld  ,Kristin Chenoweth,Lisa Kaye Fuld,Sean Hayes
 Kathie Lee,Frank Gifford,Kristin Chenoweth,Heather Thomson
 Aileen Mehle,Mary Aguilera,Mario Buatta
 Anne Seeler,Christine Schott
@@ -58602,7 +58602,7 @@ Gordon Elliot,Sophie Elliot,Philip MacTaggert,Duncan Sandys
 Helen Buckle,George Buckle
 Mary McFadden,John Shannon
 Joan Hoffman,John Hoffman
-Councillor Duncan Sandys,Allison White,Charles C. Lucas,Jr.
+Councillor Duncan Sandys,Allison White,Charles C. Lucas, 
 Peter Hopkinson,Katherine Price
 Anne Elser,Fred Elser
 Peter Hopkinson,Natasha Hopkinson
@@ -58987,7 +58987,7 @@ Cheryl Milstein,Toby Milstein
 Janet Weinbaum,Ann Sacher
 Maria Krovatin,Lynn Feng
 Alicia Hall Moran,Kelli Payne,Frances Sadler
-Cyrus Vance,Jr.,Peggy Vance
+Cyrus Vance,Peggy Vance
 Cyndi Stivers,Susan Mulcahy,Jolyne Caruso-FitzGerald
 Judge Judith Kaye
 Vagelos Family
@@ -59673,8 +59673,8 @@ George Wayne
 George Wayne
 Courtney Friel
 Courtney Friel
-Donald Trump Jr.
-Donald Trump Jr.
+Donald Trump  
+Donald Trump  
 Jim Panton,Eve Muirhead
 Jim Panton,Eve Muirhead
 Kyle MacLachlan
@@ -59853,7 +59853,7 @@ Shawna Owen,Whitney Lasky
 Shawna Owen,Whitney Lasky
 Hayes MacArthur,Shelley MacArthur Farley,Scott MacArthur
 Whitney Lasky,Mary Ann Murphy,Rebecca Besser
-Alberto Pappo,Michael Dyer,James Downing,William Evans,Edward Eissey,Richard C. Shadyac,Jr.
+Alberto Pappo,Michael Dyer,James Downing,William Evans,Edward Eissey,Richard C. Shadyac, 
 William Evans,Lourdes Fanjul
 William Evans,Lourdes Fanjul
 Marc Player,Claudia Player
@@ -60056,8 +60056,8 @@ Charles Niemeth,Anne Niemeth
 Charles Niemeth,Anne Niemeth
 Honey Kurtz
 Honey Kurtz
-William B. Lewis,Jr.,Carol Sutton Lewis
-William B. Lewis,Jr.,Carol Sutton Lewis
+William B. Lewis,Carol Sutton Lewis
+William B. Lewis,Carol Sutton Lewis
 Shirley Bacot Shamel,Gerald L.,Agnes Hassell
 Cosby George
 Cosby George
@@ -60789,7 +60789,7 @@ Andre Leon Talley,Laura Smalls,Willis Smalls
 Lauren McKenna,Meg Mohan,Kelly Bazemore
 Andre Leon Talley,Alexandra Murata
 Kim Galloway,Becky Sharp,Kelly Mazemore
-Dean Read Jr,Dean Read
+Dean Read  Dean Read
 Ernie Ferrari,Virginia Ferrari
 Katie Cook,Adam Cook
 Devin Kalman,Dendy Engelman,Aimsley Earhardt,Will Proctor
@@ -60800,7 +60800,7 @@ Julie Naughton,Colleen Caden
 Pamela Bimson Reade,Barbara Hayes
 Larry Smith,Saundra Smith
 Brenda Anderson,Ashley Anderson
-Dean Reade,Jr.,Pamela Bimson Reade
+Dean Reade,Pamela Bimson Reade
 Barbara Hayes,Tracey,Reade
 Dayna Cassidy,John Cassidy
 Joseph Oddo,Justine Oddo
@@ -60822,7 +60822,7 @@ Melissa Bernstein,Andre Leon Talley
 Christy Weber,Joanna Hurley
 Gregory Bendelius,Laura Norwalk Bendelius
 Andre Leon Talley,Alexis Thomas
-Marilyn Holstein,Richard Metz Jr.
+Marilyn Holstein,Richard Metz  
 Victoria Baker
 Jayne Johnston,Alex Murata
 Amy Phelan
@@ -60891,7 +60891,7 @@ Rodney Wilson,David P. Brand
 Lieutenant Colonel Gulley,Dennis Walcott
 Emcee Demarco Morgan
 Kenneth Olden,Sandra White Olden
-Joel Klein,Philip Banks Jr.
+Joel Klein,Philip Banks  
 Ty Stone-Adams,Iasha Rivers
 Melanie Collymore,William Thompson
 Gizelle Eastman,Tyren Eastman
@@ -61787,7 +61787,7 @@ Dan Abrams
 Harry Evans,Tina Brown
 Deborah Roberts
 James Watson
-Henry Louis Gates,Jr.
+Henry Louis Gates, 
 Maurice DuBois
 Jami Floyd
 Jack Ford,JuJu Chang
@@ -62265,7 +62265,7 @@ Lisa,Thomas,Kylie Thorp
 William Lorio,Thomas Lorio
 Emma Bern,Emma Sobel
 Nalla Sagna,Maeya Sagna
-Paul Janos,John Cooney,Jr.
+Paul Janos,John Cooney, 
 Carolyn Pilkington,Trip Dorkey
 Pat Burke,Craig Ivey,Sandy Miller
 Larry Stewart,Liz Bracken-Thompson,Bill Mooney
@@ -62894,7 +62894,7 @@ Laurie Tisch,Jennifer Raab,Matthew Goldstein
 Senator Chuck Schumer,Lew Frankfort
 Tracy Jachmich,Morgan Harbin
 Veronica Beard,Malcolm Kutner
-William Bratton Jr.
+William Bratton  
 Steven Butensky,Di Petroff
 Tory Ross,Susan Krysiewicz,Stephen Elrod
 Whitney Wolfe
@@ -63112,7 +63112,7 @@ Laura Landy,Robert Corman
 Kathleen Foley
 Jeanne Downes,Chloe Downes
 Lawrence Alleva,Elizabeth Curtis,Jude Curtis,Brian Foreman
-Catherine Long,W. Jack MacNeish,Jr.
+Catherine Long,W. Jack MacNeish, 
 Jesse Haines,Nicholas Haines
 Michelle Raisbeck,Jay Hickman
 Nienke Padberg,Tasabbur Hasan
@@ -64220,7 +64220,7 @@ Leila Taghinia Heller,Iran Issa-Khan,Dahman Kia
 Maryam Filsoof,Rachel Cooper,Hafez Nazeri
 Jody Sarsfield,Chele Chiavacci
 Buzz Aldrin,Lois Aldrin
-John Catsimatidis Jr.,Margo Catsimatidis,John Catsimatidis St.,Andrea Catsimatidis
+John Catsimatidis  ,Margo Catsimatidis,John Catsimatidis St.,Andrea Catsimatidis
 Chris Cox,Andrea Catsimatidis,Patricia Nixon Cox,Ed Cox
 Louise Kornfeld,Lonnie Wollin
 Alexis Clark
@@ -66137,7 +66137,7 @@ Candice Bergen,Barry Diller,Tina Brown
 Cindi Leive,Bethann Hardison
 Alina Cho,Patricia Field
 Andre Balazs,Francesco Clemente
-Coco Brandolini,Carolina Herrera Jr.
+Coco Brandolini,Carolina Herrera  
 Alexandra von Furstenberg,Talita von Furstenberg,Tassilio von Furstenberg,Alexandre von Furstenberg
 Starlite Randall,Trudie Styler,Astrid Munoz
 Jim Gold,Linda Fargo
@@ -67475,7 +67475,7 @@ Yvonne Chaka Chaka,Themba
 Thandiswa Mazwai
 Jesse McCartney
 Mike Albergo
-James Pickens,Jr.
+James Pickens, 
 Carla Bruni-Sarkozy,Dave Stewart
 Duncan Spencer,Alfre Woodard
 Tom Joiner
@@ -67483,7 +67483,7 @@ Josh Groben
 Lil Kim,Cyndi Lauper
 Sipho Mabuse
 Gloria Gaynor
-Forest Whitaker,Martin Luther King,Jr.
+Forest Whitaker,Martin Luther King, 
 Morgan Freeman
 Billie Jean King
 Cyndi Lauper
@@ -68033,7 +68033,7 @@ Michael Presser,Alan Momeyer,Andrew Tisch
 Ashley Catherine Schmidt,Nick Sala
 Diane Holmes,Steven Stolman,Sheila O'Malley Fuchs,Millie Brinn,Jean Remmel FitzSimmons,Christine Gray,Barbara Smith,Audrey Gruss
 New York First,Michelle Patterson,Debbie Bancroft
-Margo MacNabb Nederlander,Greg D'Elia,Sue Madonia,James Nederlander,Jr.
+Margo MacNabb Nederlander,Greg D'Elia,Sue Madonia,James Nederlander, 
 Robert Chaloner,Jean Remmel FitzSimmons,George Kraus,Patty Kraus,Nancy Larsen,Peter Larsen
 Bill Whitener,Kirk DeGooyer,Ken Wyse
 Ladd Willis,Haley Willis
@@ -68056,7 +68056,7 @@ Shoko Cheng,Niki Cheng
 Robert Ewert,Monica Knoll,Kim Schneider,Anthony Dale,Westreich Dale
 Robert Fowler,Jared Clark
 Frank Calamari
-Thomas J. Fahey,Jr.,Eleanor Fahey
+Thomas J. Fahey,Eleanor Fahey
 Mary Buckley,William Buckley
 Michael Brescia
 John McEnroe,Kay McEnroe
@@ -68240,8 +68240,8 @@ David Cone,Lou-Ellen Barkan,David Hyde Pierce
 Jordan Schreiber,Anne McBride Schreiber,Frank J. Bisignano
 David Cone,Jill Zarin,Bobby Zarin
 Mary Sano,Mony de Leon
-James B. Lee,Jr.,Frank J. Bisignano
-Frank J. Bisignano,Heath B. McLendon,James B. Lee,Jr.
+James B. Lee,Frank J. Bisignano
+Frank J. Bisignano,Heath B. McLendon,James B. Lee, 
 Charles Fazzino,David Hyde Pierce
 David Cone,David Hyde Pierce
 Michael Feinstein
@@ -68396,7 +68396,7 @@ Jamie Foxx
 Diane Sawyer
 Jamie Foxx,Justin Timberlake
 Rolf Schmidt-Holtz
-Natalie,Quincy Jones,Clarissa Bronfman,Edgar Bronfman Jr.,Clarence Avant,Jackie Avant,Jerry Inzerillo
+Natalie,Quincy Jones,Clarissa Bronfman,Edgar Bronfman  ,Clarence Avant,Jackie Avant,Jerry Inzerillo
 Jamie Foxx
 Phylicia Rashad
 Prince
@@ -68738,7 +68738,7 @@ Zarin Mehta,Paul Underwood,Michele Fron
 William McDonough,Suzanne McDonough
 Sandra Warshawsky,Stanford Warshawsky,Dietlinde Maazel
 Colonel Jon Mendes,Irene Duell,Zarin Mehta
-Slade Mills Jr.,Ilaria Dagnini,Jon Deak
+Slade Mills  ,Ilaria Dagnini,Jon Deak
 Emilla Saint-Amand,Nancy McKinney,Russell Carson
 Eugene Levinson,Gina Levinson
 William McDonough,Suzanne McDonough
@@ -68865,7 +68865,7 @@ Tailgating
 Jacqueline Stahl,Jessica Zaganczyk
 Zibby Tozer,Katie Tozer
 Alison Hartwell
-Eva Gonzalez,Carlos Watson,Deja Daniels,Colin Frederick,Jr.
+Eva Gonzalez,Carlos Watson,Deja Daniels,Colin Frederick, 
 Stephanie Trump,Kendra Walker
 Lee Ann Womack
 Peter Fishbein,Eugene Lang,Nathan Gantcher
@@ -68904,7 +68904,7 @@ Stas Sokolov,Lisa Malitz,Roy Kean
 Jodie Strazzullo,Salvator Strazzullo
 Jessica Flint,Timo Weiland
 Christopher Wolf
-Robert Kennedy Jr.,Luigi Tadini,Amanda Hearst,Bobby Kennedy
+Robert Kennedy  ,Luigi Tadini,Amanda Hearst,Bobby Kennedy
 Marissa Bregman,Dahlia Heyman,Nick Raynes
 Becky Hughes,Ulrik Trampe,Julia Trampe
 Martha Sud,Nanny Cannon
@@ -68992,7 +68992,7 @@ Ed Lewis,Julian Niccolini
 Chuck Scarborough
 Eva Shaye,Bob Shaye
 Alex von Bidder,Nina Zagat,Tim Zagat
-Julian Niccolini,Arthur Sulzberger Jr.
+Julian Niccolini,Arthur Sulzberger  
 Donald Marron
 Charles Kopelman,Stacy Kopelman Fritz
 Frances Hesselbein
@@ -70511,7 +70511,7 @@ Liza Minnelli
 Marc Kudisch
 Dolly Parton
 Trent Kowalik,David Alvarez,Kiril Kulish,Billy Elliot
-Jimmy Nederlander,Jr.,Josefina Scaglione,Karen Olivo,West Side Story
+Jimmy Nederlander,Josefina Scaglione,Karen Olivo,West Side Story
 Musicians John Clancy,Danny Troob
 Carol Shelley,Billy Elliot
 Lori Silverstein,Kathryn Hall
@@ -70986,18 +70986,18 @@ Nicole Miller
 /Will Cotton
 Marc Ecko
 Nicole Miller
-Joseph A. Califano,Jr.,Chairman,Kirk Douglas,Anne Douglas,Michael Douglas
-Joseph A. Califano,Jr.,Muhtar Kent,The Coca-Cola Company
-Ursula Burns,Xerox Corporation,Joseph A. Califano,Jr.
+Joseph A. Califano,Chairman,Kirk Douglas,Anne Douglas,Michael Douglas
+Joseph A. Califano,Muhtar Kent,The Coca-Cola Company
+Ursula Burns,Xerox Corporation,Joseph A. Califano, 
 Selin Kent,Cem Kent,Muhtar Kent,Anne Douglas,Kirk Douglas
-Bill O'Reilly,Muhtar Kent,Hilary P. Califano,Joseph A. Califano,Jr.
+Bill O'Reilly,Muhtar Kent,Hilary P. Califano,Joseph A. Califano, 
 Anne Douglas
 Anne Douglas,Leslie Moonves,Corporation
 Kirk Douglas
 Dick Button,Margaret Robson
 Kirk Douglas,Donald R. Keough,Clarke Keough,Patrick Keough
-Leslie Moonves,Joseph A. Califano,Jr.,Michael Douglas,Julie Chen
-Michael P. Schulhof,Chairman,Group,Joseph A. Califano,Jr.
+Leslie Moonves,Joseph A. Califano,Michael Douglas,Julie Chen
+Michael P. Schulhof,Chairman,Group,Joseph A. Califano, 
 Julie Chen,Kirk Douglas
 Hilary P. Califano,Anne Douglas,Eve Williams-Jones
 Jeb Bush,Columba Bush
@@ -71184,7 +71184,7 @@ Krista Schultz,Kay Sheils
 Caroline Perkin,Missy Egbert Sheehan
 Stella Karantzoulis,Elle Sakellis
 Soon-Yi Previn,Woody Allen,Patricia Clarkson,Michael Barker
-Patricia Clarkson,Henry Louis Gates,Jr.
+Patricia Clarkson,Henry Louis Gates, 
 Jeff Gilmore,Jane Rosenthal,Alan Patricof,Susan Patricof
 Tony Mazzulli,Jennifer Buque
 Nicole Renna,Barbara Kopple
@@ -71202,11 +71202,11 @@ Henry Cavill
 Scott Lenhardt,Parker Posey
 John Sykes
 Mona Lerche,Paige Parker
-Patty Harris,Henry Louis Gates,Jr.
+Patty Harris,Henry Louis Gates, 
 Melissa Lonner,Jules Stringer,Paige Nelson,Rob Wiesenthal
 Patty Newberger,Mary Solomon
 Li Xue,Randall Stempler
-Debra Abell,Henry Louis Gates,Jr.,Kathy Lacey Hoge
+Debra Abell,Henry Louis Gates,Kathy Lacey Hoge
 Hamida Belkadi,Bob Silverstein
 Ben Pundole,Jessica Baker
 Peter Jacobson
@@ -71471,7 +71471,7 @@ Gabrielle Ruiz
 Swoosie Kurtz,Kate Burton
 Jenny Powers
 Anne Bass,Karen Brooks Hopkins
-Eric Gallo,Joe Regan Jr.
+Eric Gallo,Joe Regan  
 Barbara Giffuni,Ziona Grossman,Rose Billings
 Dorothy Lichtenstein
 Jo Andres,Steve Buscemi
@@ -71867,7 +71867,7 @@ Isaiah Sheffer,Cynthia Elliott,Brian Stokes Mitchell
 Brian Stokes Mitchell,Sheldon Harnick,Isaiah Sheffer
 Ginnifer Goodwin
 Andrew Saffir,Jane Seymour
-Cuba Gooding Jr.
+Cuba Gooding  
 America Ferrara
 Annelise Peterson
 Amy Sacco
@@ -72213,7 +72213,7 @@ Elaine Stritch
 Darius Nichols,Sasha Allen
 Galt MacDermott
 Joel Grey,Robert Hanson
-John Gallagher,Jr.
+John Gallagher, 
 Jamie DeRoy,Mo Rocca
 Garry Trudeau,Jane Pauley
 Linda Eder,Rosie O'Donnell
@@ -72256,7 +72256,7 @@ Donald Boggs,Pat Mitchell
 Michaela Kennedy Cuomo,Kerry Kennedy,Cara Kennedy Cuomo,Mariah Kennedy Cuomo
 Steve Alderman,Liz Alderman,Kerry Kennedy
 Ethel Kennedy,Randy Paar
-Harold Ford Jr.,Kerry Kennedy,Donald Boggs,Pat Mitchell,Rory Kennedy,Jeff Greenfield
+Harold Ford  ,Kerry Kennedy,Donald Boggs,Pat Mitchell,Rory Kennedy,Jeff Greenfield
 Alec Baldwin,John Adams
 David Zaslav,Sig Hansen,Pam Zaslav
 Alec Baldwin,Paul McCartney
@@ -72273,19 +72273,19 @@ Ali Hewson
 Daniel Tishman,Frances Beinecke
 Kelly Cox,Angela Lindvall
 Kristen Wiig,Seth Myers
-Paul McCartney,Robert Kennedy Jr.
+Paul McCartney,Robert Kennedy  
 Julie Gilhart
 David Zaslav,Adam Savage
 Paul McCartney,Sig Hansen ...
 Paul McCartney,Stella McCartney
 Paul McCartney,Nancy Shevell
 Stella McCartney,Andre Balazs
-Tree Swenson,Chip Kidd,Rose Styron,Maggie Gyllenhaal,Mark Strand,Wynton Marsalis,Joan Baez,Jorie Graham,Roy Blount,Jr.,Harold Varmus,Steve Reich
+Tree Swenson,Chip Kidd,Rose Styron,Maggie Gyllenhaal,Mark Strand,Wynton Marsalis,Joan Baez,Jorie Graham,Roy Blount,Harold Varmus,Steve Reich
 Chip Kidd
 Joan Baez,Wynton Marsalis
 Jorie Graham,Harold Varmus
 Wynton Marsalis,Eunice Panetta
-Joan Griswald,Roy Blount,Jr.
+Joan Griswald,Roy Blount, 
 Mark Fortier,Mary Park
 Maggie Gyllenhaal,Rose Styron
 Rose Styron
@@ -72817,7 +72817,7 @@ Robert Redford,Rachel Robinson,Ben Carson,Robin Roberts
 Robert Redford,Leonard S. Coleman
 Bill Cosby
 Greg Gonsalves,Charmane Gonsalves,Grant Gonsalves,Rachel Robinson,Christina Gonsalves
-Ben Carson,James Pickens Jr.
+Ben Carson,James Pickens  
 Jerome Bettis
 Gayle King,Robin Roberts
 Tom Brasuell,Jacyln Parks,Elizabeth Scott
@@ -72845,7 +72845,7 @@ Everett Raymond Kinstsler
 Tony Hendra,Regina Barreca
 Ellen Marcus,Lisa Schiff,Jones Yorke,Betsy Bartlett
 Meg Wolitzer
-Roy Blount Jr.,Joan Griswold
+Roy Blount  ,Joan Griswold
 Amber Frumkes,Timothy Frumkes
 Joseph Moinian,Nazee Moinian
 Sanaz Partovi
@@ -73108,7 +73108,7 @@ Aby Rosen,Samantha Boardman Rosen
 Bill Telepan,Daniel Boulud,Deb Shriver,Tom Harvey
 David Patrick Columbia,Barbara Tober
 Candace Leeds
-Diana Diamond,Suri Kasirer,John H. Alschuler,Jr.,Lisa Rosenblum
+Diana Diamond,Suri Kasirer,John H. Alschuler,Lisa Rosenblum
 Tom Harvey,Cathie Black
 Daniel Boulud,Micky Boulud
 Daniel Humm,Georgette Farkas,Julian Niccolini,Lisa Niccolini
@@ -73295,7 +73295,7 @@ Alexis Clark,Charles Atkins,Liz Peek
 Douglas Quinn,Liz Quinn
 Alease Fisher Tallman,Phillips Watson,Lynn Wheat
 Donna Vock
-James Benenson,James Benenson Jr.,Sharen Benenson,Clement Benenson
+James Benenson,James Benenson  ,Sharen Benenson,Clement Benenson
 Andreas Beroutsos,Abigail Hirschhorn Beroutsos,Carol Ostrow,Michael Graff
 Christine de Saint Andrieu
 Gregory Long
@@ -73524,14 +73524,14 @@ Candace Austin,Ron Austin
 Jennifer Raab,Anne McNulty
 Joshua Dachs,Ako Dachs
 Joy Berta,Chuck Ojerholm,Pauline Tautu
-Laurie Tisch,Frank Bennack Jr.
+Laurie Tisch,Frank Bennack  
 Kathy Brown,Nat Leventhal
 Laurie Tisch,Carolyn Tisch Sussman,Joan Tisch,Emily Tisch Sussman
 Lisa Towbin,Robert Towbin
 Mikhail Baryshnikov
 Jonathan Tisch,Lizzie Tisch,Laurie Tisch,Carolyn Tisch Sussman,Joan Tisch,Emily Tisch Sussman,Steve Tisch
 Elizabeth Cooke Levy,Richard DeScherer,Jenny DeScherer
-Frank Bennack Jr.,Mary Lake Bennack
+Frank Bennack  ,Mary Lake Bennack
 Gail Nayowith,Kate Heiberg,Susan Fuhrman
 Jonathan Tisch,Lizzie Tisch,Henri Barguirdjian,Marianne Lafiteau
 Laurie Tisch,Steven Sanders
@@ -74317,7 +74317,7 @@ Bob Gruen,Elizabeth Gruen
 Matt Dillon
 Sebastian Clarke
 Django,Bebe,Harlee McBride
-Carey Lowell,Richard Gere,Robert Kennedy,Jr.,Lauren Hutton,Alex Matthiessen
+Carey Lowell,Richard Gere,Robert Kennedy,Lauren Hutton,Alex Matthiessen
 Wendy Diamond,Matt Semino
 Gloria Reuben,Anne Colley
 Gloria Reuben,Richard Belzer
@@ -74422,7 +74422,7 @@ Charles Plante,Ross Fusca
 Florian Knothe,Tina Oldknow,Amy Swartz,Warren Bunn
 Courtney Riordan,Alice McAdams,Blair Douglas
 Duane Hampton,Edward Lee Cave
-Elissa Panetta,Ali Harmer Jr,Mieke van Helsema
+Elissa Panetta,Ali Harmer  Mieke van Helsema
 Ellen Israel,Carrie Imberman,Marcie Imberman
 Helen Marx,Noel Jeffrey,Lynn Jeffrey
 Hannah Pakula,Donald Newhouse,Susan Newhouse
@@ -74807,7 +74807,7 @@ Jeanne Lawrence,Eve Patton,Ursula Striker
 Anthony Barkett,Jennifer Herring
 Jeannette Pelizzon,David Pelizzon
 Catherine Flatley,Adam Fry
-Sheena Monnin,Frank Arlinghaus,Jr.
+Sheena Monnin,Frank Arlinghaus, 
 Charlotte Drummond,Pélagie de Mac Mahon,Duchesse de Magenta
 Christina Huffington,Derek Kelley
 Mark Gastineau
@@ -74912,7 +74912,7 @@ Alec Baldwin,Mariska Hargitay
 Jeff Richmond,Tina Fey
 Amanda Lipitz
 Matt Lenz
-Cornelius Smith,Jr.
+Cornelius Smith, 
 John Desiderio,Iris Cantor
 Kristen Wiig,Alec Baldwin,Will Forte,Fred Armisen
 Maurice Kanbar,Iris Cantor,Tony Bennett
@@ -75062,7 +75062,7 @@ Aryan Shayegani,Frank Bruno
 Michele Herbert
 Abbey Braverman,Steven Braverman
 Lori Stokes
-Mary Richardson Kennedy,Robert F. Kennedy,Jr.
+Mary Richardson Kennedy,Robert F. Kennedy, 
 Hugh Sampson,Judith Hannan,John Hannan
 Julian Niccolini,Marcus Samuelsson
 Florence Fabricant,Richard Fabricant
@@ -75221,7 +75221,7 @@ Arthur Ross,Kathy Sloane,Muriel Siebert
 William Little,Helen Little,Sandra Eu
 Sally Minard,Senator Liz Kruger
 Leslie Bains,Laura Pels
-Franklin D. Roosevelt,Jr.,Stephen Schlesinger
+Franklin D. Roosevelt,Stephen Schlesinger
 Councilwoman Jessica Lapan,Muriel Siebert
 Leslie Bains,Harrison Bains
 John P. Clarke,Joyce Furfero,Steven Papamarcos,Igor Tonic,Rad Jacuch,Karol Ciechanowski
@@ -76277,7 +76277,7 @@ Avery Egerton-Warburton,Brooke Egerton-Warburton,Maggie Rashid
 Nick Chase,Lenny Golay
 Alex Studley,Deborah Weaver,Lainie Lesser-Mark,Jane Studley,George Studley,Jonathan Studley,Julien J. Studley,Helen Studley,Ivar Stakgold.
 Jerry I. Speyer,Katherine Farley
-Frank A. Bennack,Jr.,Mary Lake Bennack,Richard K. DeScherer
+Frank A. Bennack,Mary Lake Bennack,Richard K. DeScherer
 Florence Kaufman,Linda Lindenbaum,Frieda Furman,Paola Schulhof
 Deryck Maughan,E. Stanley O'Neal
 Reynold Levy,Julien J. Studley,Elizabeth Levy
@@ -77059,7 +77059,7 @@ Gia Coppola
 Jeff Koons,Justine Koons
 Kate Bosworth,Helena Christensen
 Julia Restoin Roitfeld,Carine Roitfeld
-Agyness Deyn,Albert Hammond Jr.
+Agyness Deyn,Albert Hammond  
 Amanda Brooks,Christopher Brooks
 Genevieve Jones
 Olya Thompson
@@ -77239,9 +77239,9 @@ Wangechi Mutu
 Catherine McCabe,Tonya R. Murray,Richard A. Hiller
 Florence Admiral,Rear Admiral
 Gail Tieh Monaco,Henry Lovera,Aubree Albano,Jay Harris Rabin,Ritu Iyer
-Martin D. Payson,Nancy Heller,Roger W. Ferguson,Jr.
+Martin D. Payson,Nancy Heller,Roger W. Ferguson, 
 Gail Engelberg,Linda Sirow
-James R. Tallon,Jr.,Samuel S. Polk,Lorie A. Slutsky,J. Barclay Collins
+James R. Tallon,Samuel S. Polk,Lorie A. Slutsky,J. Barclay Collins
 Terry Lynam,Deborah M. Sale
 Herbert Pardes,S,Nancy S. Wexler,PhD
 Frank J. Branchini,Steven M. Sayfer,Patricia J. Wang
@@ -77394,10 +77394,10 @@ Kirsty Williams,Dave DeMattei,Patrick Wade,Monelle Totah
 Alexa Hampton,Duane Hampton
 Celerie Kemble,Carolyn Englefield
 Heather Clawson
-Sims Bray Jr,Charlotte Moss
+Sims Bray  Charlotte Moss
 Patrick Wade,Jose Picayo
 Dave DeMattei,Marianne Rohrlich,Robert Verdi,Dierdre
-Sims Bray Jr.,Katie Brockman,Barclay Butera
+Sims Bray  ,Katie Brockman,Barclay Butera
 Jesse Carrier,Tricia Barroll Sellman,Dave DeMattei,Mara Miller
 Tricia Barroll Sellman,Nina Zagat,Tim Zagat,Dave DeMattei
 Mara Miller,Jesse Carrier,Bob Pittman
@@ -77539,8 +77539,8 @@ Justin Turkat,Jenny Tay,Jeremy Yohai
 John Catsimatidis,Margo Catsimatidis
 Alexa Hubbard,Alyssa Hubbard
 Bill Gallo,Kimberly Dozier,Delores Gallo
-Joyce Randolph,Roscoe C. Brown,Jr.,Robin Hubbard
-Joyce Randolph,Roscoe C. Brown,Jr.,Robin Hubbard
+Joyce Randolph,Roscoe C. Brown,Robin Hubbard
+Joyce Randolph,Roscoe C. Brown,Robin Hubbard
 Bruce Laue,Sherri Laue
 John Catsimatidis,Alison Chase
 John Catsimatidis,Margo Catsimatidis,Susan Frederick,Bob Frederick
@@ -78429,7 +78429,7 @@ Eric Villency,Kimberly Guilfoyle Villency,Richard Johnson,Sessa von Richtofen
 Annalise Ghis,Holly Dunlap,Sarah Raterman
 Sidney Lumet,Ellen Adler,James Lipton
 Ellen Adler,Terrance McNally
-John Hearst Jr.,Ellen Adler
+John Hearst  ,Ellen Adler
 Tom Oppenheim,Steve Dembitzer
 Billy Macklowe,Julie Macklowe
 Mariska Hargitay
@@ -78972,7 +78972,7 @@ Rachel Heller,Mike Heller,Debra Heller,Mark Heller
 Tia Walker,Patricia Zarsky
 Colette Leonard,Daria Gershman,Pippa McArcle
 Arthur Colombino,Terri Colombino
-Silvina Arijjr,Unik
+Silvina Arij Unik
 Joelle Cole,Samantha Cole
 Rich Thomas,Tamie Peters Thomas
 Seth Platt,Ellen Platt
@@ -79128,7 +79128,7 @@ Chef Douglas Rodriguez,Brett Hickey
 Berns
 Steve Tisch,Neal Sroka
 Lauren Bush,David Lauren
-Tim George Jr,Nacho Figueras
+Tim George  Nacho Figueras
 Josh Guberman
 Lisa Maria Falcone
 Brooke Cohen
@@ -79235,7 +79235,7 @@ Rene Avelar,Scott Culbertson,Florence Azria,Johnny Wimbrey
 Verreett,Lorna Scott
 Amanda Bateman,Jason Bateman
 Anya Monzikova
-Robert Downey Jr,Susan Levin Downey
+Robert Downey  Susan Levin Downey
 Bill Hader,Vanessa Angel
 Brandon T Jackson
 Brandon Soo Hoo
@@ -79384,11 +79384,11 @@ Jessica Oppenheim,Patrick Brown,Monica Perschetz
 Alison Strassle,John Ciuffreda
 Pat Clifford,Killian Tormey
 . Harvey Weinstein,Gwyneth Paltrow,Liv Tyler
-Jon Favreau,Andrew Saffir,Robert Downey Jr.
+Jon Favreau,Andrew Saffir,Robert Downey  
 Kelly Bensimon
 Famke Janssen,Jon Favreau
 Mamie Gummer,Andrew Saffir
-Robert Downey Jr.,Gwyneth Paltrow,Michael Kors
+Robert Downey  ,Gwyneth Paltrow,Michael Kors
 Maggie Rizer
 Eva Amurri
 Joy Bryant
@@ -79419,7 +79419,7 @@ Benjamin Bratt
 May Andersen
 Tracey Ullman
 Diana Ross
-Robert Downey Jr.
+Robert Downey  
 Leelee Sobieski
 Christie Brinkley,Charlie McArdle
 Christie Brinkley,Petra Nemcova
@@ -79578,7 +79578,7 @@ Chris Descherer,Amanda Honeycutt
 Lillian Vernon,David Hochberg,Barbara Block
 Ann Unterberg,Thomas Unterberg
 Anne Ehrenkranz,Joel Ehrenkranz
-Frank A. Bennack,Jr.,Richard K. Descherer,Michael Bloomberg
+Frank A. Bennack,Richard K. Descherer,Michael Bloomberg
 Joseph Gregoire,Claire Gregoire
 Claudia Lane,Bobbie Denison
 Welz Kauffman,Jane Casper
@@ -79825,7 +79825,7 @@ Honorees Cary Sherman,Mitch Bainwol
 Fred Davis
 Cary Sherman,Neil Portnow,Mitch Bainwohl
 Wendy Diamond
-Edgar Bronfman Jr.,Charles Goldstuck
+Edgar Bronfman  ,Charles Goldstuck
 Rolf Schmidt-Holtz,John Shapiro,Zach Horowitz
 Avery Lipman,Colbie Caillat,Monte Lipman
 Daniel Glass
@@ -80036,8 +80036,8 @@ Kathy Sussman,Sunny Hostin
 Frances Hayward,Jill Zarin
 Tracy Wilson Mourning
 Christy Turlington Burns
-Christine Carrozza,Roger Tellefsen,Jr.,Roger Kumble,Mary Kumble,Todd Kumble,Jennifer Kumble,Philip Fiddler,Jody Fiddler
-Christine Carrozza,Roger Tellefsen,Jr.
+Christine Carrozza,Roger Tellefsen,Roger Kumble,Mary Kumble,Todd Kumble,Jennifer Kumble,Philip Fiddler,Jody Fiddler
+Christine Carrozza,Roger Tellefsen, 
 Angela Kumble,Steven Kumble
 Julie O,Sean O
 Matilda Cuomo,Governor Mario Cuomo
@@ -80558,7 +80558,7 @@ Lise Evans,Oscar Junguera
 Karen Hughes,Garry Horrowitz,Alexandra Hughes
 Ronni Denes,Lloyd G. Trotter,Corice Arman
 Lana Woods,Brenda Neal
-George Campbell Jr.,Wangechi Mutu,Ronald Drucker
+George Campbell  ,Wangechi Mutu,Ronald Drucker
 Heidi Diedrich,Kevin Umeh,William Floyd
 Roz Goldstein,Sylvia Smolensky
 Frank Sciame,Barbara Sciame
@@ -81211,7 +81211,7 @@ Silvia Lemus de Fuentes,Carlos Fuentes
 Matt Lauer,Annette Roque
 Susan Segal,Marc Rosell,Florencia Masri,Elias Carmen Masri
 Alexandra Chavez,Milton Chavez
-William B. Harrison,Jr.,Anne Harrison
+William B. Harrison,Anne Harrison
 Susan Segal,Amalia Lacroze de Fortabat
 William R. Rhodes,Carlos Fuentes,Susan Segal
 Amalia Lacroze de Fortabat,David Rockefeller
@@ -81691,10 +81691,10 @@ Trustee Judith Carson,Trustee Ron Yoo,Leslie Yoo
 Gerold Klauer,Erika Klauer,Jana Klauer,Matthew Klauer
 Evan Nadler,,Laurie Miller Brotman,,Michael Alan Graves
 Jackie Harris Hochberg,Robert Hochberg,Laurie Miller Brotman,
-Douglas P. Teitelbaum,Lawrence T. Babbio,Jr.,Jackie Harris Hochberg,Harold S. Koplewicz,
+Douglas P. Teitelbaum,Lawrence T. Babbio,Jackie Harris Hochberg,Harold S. Koplewicz,
 Michael Karsch,Erica Karsch
 Lawrence Babbio,Sheri Babbio
-Elissa Burke,Jackie Harris Hochberg,George Fielding,,Douglas P. Teitelbaum,Lawrence T. Babbio,Jr.
+Elissa Burke,Jackie Harris Hochberg,George Fielding,,Douglas P. Teitelbaum,Lawrence T. Babbio, 
 Michael Alan Graves,Jackie Harris Hochberg,Evan Nadler,
 George Tsiolis,Michael Egarr
 Vera Clark,Kent Clark
@@ -81761,7 +81761,7 @@ Gary David Goldberg,Scott Seydel
 Peter Buffett,Jennifer Buffett
 Marilyn Bergman,Joel Grey
 Regis Philbin,Mike Renzi
-Bridget Magee,Donald Trump,Jr.,Bill Magee,Mariah Carey,Shawn McDonald,Vanessa Trump
+Bridget Magee,Donald Trump,Bill Magee,Mariah Carey,Shawn McDonald,Vanessa Trump
 Alexandra Richards,Carmit Bachar
 Billie Tisch,Meryl Tisch
 Bridgette Klipper,Bill Magee,Kristin Magee
@@ -81779,7 +81779,7 @@ Jamie Niven,Charlotte Moss
 Nick Cannon
 Paul Johnson Calderon,Maggie Gray,Alexandra Richards
 Reem Acra
-Tinsley Mortimer,Donald Trump Jr.,Vanessa Trump
+Tinsley Mortimer,Donald Trump  ,Vanessa Trump
 Robert Ruffino,Charlotte Moss,Mish Tworkowski
 Stephen Drucker,Sharon Hoge,Charlotte Moss
 Billy Norwich
@@ -81935,7 +81935,7 @@ Lisa Komara,Jerome Begin,Christopher Lancaster
 Helen Bernstein Fealy
 Winfrida Mbewe,Brendan Curry
 James H. Bernstein,Charlie Savage,Helen Bernstein Fealy,Kathryn Gandal
-Paul LeClerc,James F. Hoge,Jr.
+Paul LeClerc,James F. Hoge, 
 Marilyn Ungar,Helen Bernstein Fealy,Joan Custin
 Karen Mae,Astrid Mae
 Caroline Cole,Jill Ross
@@ -81966,7 +81966,7 @@ Deborah Norville,Karl Wellner
 Dayssi Olarte de Kanavos
 Donald Trump,Melania Trump
 Deborah Roberts,Al Roker
-Donald Trump Jr.,Vanessa Trump
+Donald Trump  ,Vanessa Trump
 Irina Dvorovenko,Maxim Belotserkovsky
 Emilia Fanjul,Lynda Carter
 Fe Fendi
@@ -82789,7 +82789,7 @@ Carmen Charles
 Andy Anibal Collazo
 Susannah Vila,Brett Story
 Sharon Weiss,Chandler Bazemore
-David Ferriero,Ron Currie,Jr,Emily Mitchell,Peter Nathaniel Malae,Ellen Litman,Dinaw Mengestu,Paul LeClerc
+David Ferriero,Ron Currie, Emily Mitchell,Peter Nathaniel Malae,Ellen Litman,Dinaw Mengestu,Paul LeClerc
 Carrie Cloud,Ashley Wick,Aaron Eckhart
 Han Ong,Helen Schulman
 David Benioff,Jennifer Rudolph Walsh
@@ -82887,10 +82887,10 @@ Alison Mazzola,Sylvia Mazzola,John Mazzola,Amy Mazzola Flynn
 Dominique Browning,Laura Slatkin
 Elouise Joseph,Doug Drummond,Joyce Dattner,Drew Williamson
 Christopher Street,Anysa Islam,Doug Drummond,Elouise Joseph
-John P. Singer,Howard Teich,Esq.,Gabrielle Kurlander,James J. Burke,Jr.
+John P. Singer,Howard Teich,Esq.,Gabrielle Kurlander,James J. Burke, 
 Daphne Rubin-Vega,Lil Mama
 Arthur Stern,Frank La Pera,Gloria Strickland,Nathaniel Christian,Bonny Gildin,Steve Alesio
-Richard Sokolow,Wilfredo Ortiz,John P. Singer,Snigdha Sarkar,James J. Burke,Jr.,Emily Munguia
+Richard Sokolow,Wilfredo Ortiz,John P. Singer,Snigdha Sarkar,James J. Burke,Emily Munguia
 Vicki Mabrey
 Steve Alesio
 Lynn Sherr,Lee Iacocca,Donna Shalala,Robert "Bob" Forbes,Mel Brooks,Wallace Forbes,Mary Higgins Clark,Christopher "Kip" Forbes
@@ -83292,21 +83292,21 @@ Gilbert Heller,Toby Heller,Henry Heller,Leila Heller,Bart Hopkins
 Woodson Merrill
 Anne Rapp
 Anna LaPay
-Michael R. Bloomberg,Frank A. Bennack,Jr.
-Willow Bay,Michael R. Bloomberg,Diane Sawyer,Robert A. Iger,Frank A. Bennack,Jr.
-Frank A. Bennack,Jr.,Mary Lake Bennack
+Michael R. Bloomberg,Frank A. Bennack, 
+Willow Bay,Michael R. Bloomberg,Diane Sawyer,Robert A. Iger,Frank A. Bennack, 
+Frank A. Bennack,Mary Lake Bennack
 Deborah Roberts,Al Roker
 Willow Bay,Reynold Levy
 Willow Bay,Albert Watson
 Vanessa Williams,Jillian Hervey
 William Harrison,Anne Harrison
 Emily Tisch Sussman,Laurie M. Tisch,Jonathan M. Tisch,Lizzie Tisch
-Robert A. Iger,Willow Bay,Anne Sweeney,Frank A. Bennack,Jr.
+Robert A. Iger,Willow Bay,Anne Sweeney,Frank A. Bennack, 
 Willow Bay,Deborah Roberts,Jonathan M. Tisch,Lizzie Tisch
 Carolyn Tisch Sussman,Laurie M. Tisch,Emily Tisch Sussman
 Sade Baderinwa,Dave Davis,Diana Williams
-Frank A. Bennack,Jr.,Joel S. Ehrenkranz
-Anne Harrison,William Harrison,Frank A. Bennack,Jr.,Mary Lake Bennack
+Frank A. Bennack,Joel S. Ehrenkranz
+Anne Harrison,William Harrison,Frank A. Bennack,Mary Lake Bennack
 Willow Bay,Diane Sawyer
 Willow Bay,Diedre L. Bay
 Anne Slater
@@ -83742,7 +83742,7 @@ Rev. Reginald Tuggle
 Minta Spain,Evette Beckett-Tuggle,Susan Taylor,Sydney Avent
 Bishetta Merritt,C. Virginia Fields,Gerri Warren-Merrick
 Marcella Maxwell,Jewel Moolenaar
-Assemblyman William Boyland,Jr.,David Brand
+Assemblyman William Boyland,David Brand
 Hasoni Pratts,Robin Verges,Michelle Miller Morial
 Elinor Tatum,Lorraine Cortes-Vasquez,Hasoni Pratts
 Sharne Jackson,Donna Williams
@@ -83796,7 +83796,7 @@ Dan Greenberg,Judith Greenberg
 Dan Greenberg,Judith Greenberg
 Selma Hernandez,Erica Jong,Tony Hendra
 Judith Greenberg,Grace Chang,Dan Greenberg,Stewart Jenner,Lewis Frumkes
-Malachy McCourt,Daphne Merkin,Ray Blount Jr.
+Malachy McCourt,Daphne Merkin,Ray Blount  
 Jaime Malanowski,Tina Flaherty,Paolo Giorno
 Pam Grayson,Bob Morris,Elly Tatum
 Chanel Cathey,Voltaire Sterling
@@ -83813,13 +83813,13 @@ Clive Davis,Rachel Robinson,Jordin Sparks
 William F. Doescher,Jai Phillips,La'Tonya Johnson,Barbara Sawyer
 Jesse Simms,Ayo Robinson
 La'Tonya Johnson,Lance Whiteley,Barbara Sawyer
-Leonard S. Coleman,Jr.,Camille O. Cosby
+Leonard S. Coleman,Camille O. Cosby
 David Robinson,Babatunde Akinloye
 Jade Smith,Kristin Jones
 Barbara Sawyer,Jimmy Smits,La'Tonya Johnson
 Joaquin Smits,Jimmy Smits
-Laurie Coleman,Leonard S. Coleman,Jr.
-Leonard S. Coleman,Jr.,Rachel Robinson,Della Britton Baeza
+Laurie Coleman,Leonard S. Coleman, 
+Leonard S. Coleman,Rachel Robinson,Della Britton Baeza
 Valaida Wynn,Michelle Rowland
 Jimmy Smits,Joaquin Smits
 Richard Lapchick,Sharon Robinson
@@ -84777,7 +84777,7 @@ Beth Blake,Jennifer Kennedy,Cristina Cuomo
 H. Parkin Saunders
 Anne Miller,Philip Miller
 Fernanda Kellogg,Kirk Henckels,Deborah M,Charles M. Royce
-Jeane Burn,William B. Harrison,Jr.
+Jeane Burn,William B. Harrison, 
 Hilary Geary,James McDonald
 Jay Diamond,Alexandra Lebenthal
 Michael Simon Interiors
@@ -84799,24 +84799,24 @@ Harriet Michel,Rev. Al Sharpton
 Bernard Lancaster,Valerie Lancaster
 Bennie Hadnott
 Denise Nappier,Adelaide Sanford
-Comptroller William Thompson,Denise Nappier,Rev. Al Sharpton,Susan Taylor,Philip Banks,Jr.
+Comptroller William Thompson,Denise Nappier,Rev. Al Sharpton,Susan Taylor,Philip Banks, 
 Denise Nappier,David Dinkins
 Inez Alexander,Warren Whitlock
-Rev. Jacques DeGraff,Assemblyman Michael,Benjamin,Philip Banks,Jr.
+Rev. Jacques DeGraff,Assemblyman Michael,Benjamin,Philip Banks, 
 Greg Floyd,Wendy Floyd
-Saundra Gonzalez-Lire,Phil Banks,Jr.,Steven Williams
-Philip Banks,Jr.,Harriet Michel,Fitzgerald Miller
+Saundra Gonzalez-Lire,Phil Banks,Steven Williams
+Philip Banks,Harriet Michel,Fitzgerald Miller
 Robin Verges,Harriet Michel
 Ian Moore,Brenda Blackmon,Lauren Green
-Roscoe Brown,Jr.,Carol White,Fitzroy Searles
-Roscoe Brown,Jr.,Gil McGriff,Comptroller William Thompson
+Roscoe Brown,Carol White,Fitzroy Searles
+Roscoe Brown,Gil McGriff,Comptroller William Thompson
 Thomas Dortch,David Banks,Marion Banks
 Thomas Dortch,David Banks,Marion Banks
 Adelaide Sanford,Kevin Parker,Susan Taylor
 Adelaide Sanford,Harriet Michel,Susan Taylor
 Stanley Gleaton,Judge Tanya Kennedy
 Susan L. Taylor,Westina Matthews Shatteen,Jeanne Parnell,Donna Williams
-Yvette Crespo,Hafiz Williams,Jr.
+Yvette Crespo,Hafiz Williams, 
 Maxwell
 Andrew Saffir,Woody Allen
 Megan Mullally
@@ -85100,7 +85100,7 @@ Elizabeth Rodriguez,Yolanda Ross
 Ben Shenkman
 Daryl Roth,John Ortiz
 Eisa Davis
-Isaiah Whitlock,Jr.
+Isaiah Whitlock, 
 John Ortiz,Phillip Seymour Hoffman,John Gould Rubin
 Jennifer Healy
 Anna Chlumsky
@@ -85798,7 +85798,7 @@ Alan Menken,Glenn Slater
 Frank Gifford,Kathy Lee
 Brandy Wildhorn,Frank Wildhorn
 Joel Grey
-Jimmy Niederlander,Jr.
+Jimmy Niederlander, 
 Jack Noseworthy
 Heidi Blickenstaff
 Kelli O'Hara
@@ -85856,7 +85856,7 @@ Patsy Winkler,Salzer,Myrna Sherman
 Brooke Shields,Joel Sherman
 Joel Sherman,Bob Papa
 Michele Sherman Entner,John Couri
-Larry Sherman,Edgar Cullman Jr.,Bill Sherman
+Larry Sherman,Edgar Cullman  ,Bill Sherman
 John Wegorzewski,Michael Murphy,Edward Callaghan
 Mario Dedemizo,Joel Sherman
 Merce Cunningham,Robert Rauschenberg
@@ -86711,12 +86711,12 @@ Patricia Marand,Irving Salem
 Rosanna Castle,John S. Castle
 Pia Lindstrom,Jack Carley
 Chris Meigher,Charles Spencer Churchill,Grace Meigher
-Margaret L. Kripke,LaSalle D. Leffall,Jr.
+Margaret L. Kripke,LaSalle D. Leffall, 
 Douglas R. Lowy
 Ingrid Connolly,John J. Connolly
 Howard Milstein,Humberto Antunes,Ercem Attilasoy
 Abby Milstein,Howard Milstein
-Howard Milstein,George Hambrick,Jr.
+Howard Milstein,George Hambrick, 
 Marianne Castle,James Orsini,Toni Orsini
 Margot Harley,Duncan Bruce,Kathrine Ockenden
 Kate Wickham,Bob Wickham
@@ -87562,7 +87562,7 @@ Annabel Vartanian
 Tatiana Platt,Campion Platt
 Allan Rappaport,Jill Rappaport
 Alice Cooper
-Eileen Wu,Cal Naughton Jr,Patricia Wu
+Eileen Wu,Cal Naughton  Patricia Wu
 The Koç Family
 Pierre de Vegh,Joan Davidson
 W.L. Lyons Brown,Rahmi Koç,David Rockefeller
@@ -88254,10 +88254,10 @@ Maria Carboni,Stefano Carboni
 Debbie Meyer,Cindy Stinger
 Adrijana Suljic,Lucia Sulijic
 Diahn McGrath,Tom McGrath
-Zibby Tozer,Jimmy Shea,Jr.
+Zibby Tozer,Jimmy Shea, 
 Somers Farkas,Judy Price
 Philippe Escaravage,Kevin Young,Jason Read
-Ralph Metcalfe Jr.,Lee Calicchio,Zibby Tozer,Nasser Metcalfe
+Ralph Metcalfe  ,Lee Calicchio,Zibby Tozer,Nasser Metcalfe
 Paul Wallace,Saundra Whitney,Barbara Taylor Bradford,Bob Bradford
 Eli Silberman,Judy Price
 Gail Day,Kip Forbes
@@ -88480,7 +88480,7 @@ Jonathan Tisch,Lizzie Rudnick
 Gillian Hearst Shaw,Annie Churchill,Ivanka Trump,Jamie Korey
 Ann Caruso
 Andrew Saffir,Rossano Rubicondi,Ivana Trump,Daniel Benedict
-Cheryl Nieman,Eric Trump,Ivanka Trump,Donald Trump Jr,Vanessa Trump
+Cheryl Nieman,Eric Trump,Ivanka Trump,Donald Trump  Vanessa Trump
 Vanessa Trump,Veronika Haydon
 Ivanka Trump,Ivana Trump
 Jason Kudelka,Karina Little,Adrienne Kudelka,Timothy Little
@@ -88955,7 +88955,7 @@ Diane Sawyer,Virginia Smith,Sally Singer
 Whitney Fairchild,James Fairchild
 Linda Wells,Fabien Baron
 Philippe Labro,Francoise Labro
-Robert DeNiro,Grace Hightower,Mary Richardson Kennedy,Robert Kennedy,Jr.
+Robert DeNiro,Grace Hightower,Mary Richardson Kennedy,Robert Kennedy, 
 Bruce Weber,Elaine Irwin,John Cougar Mellencamp
 David Lauren,Ajyley Sarno
 Alexis Bryan
@@ -88999,7 +88999,7 @@ Rufus Albemarle,Allison Sarofim
 Damien Hirst
 Jennifer Jason Leigh
 Lake Bell
-Antonio Sabato Jr.
+Antonio Sabato  
 Tracee Ellis Ross
 Anouck Lepere
 Gemma Ward,Lily Donaldson
@@ -89783,7 +89783,7 @@ Mark Strausman,Brooke Neidich,Daniel Neidich
 Steve Teitelbaum,Robert Grant
 Calvin Klein,Ross Bleckner
 Tony Ingrao,Karole Armitage,David Salle,Randy Kemper
-Courtney Rainey,Ralph Destino Jr.
+Courtney Rainey,Ralph Destino  
 Alan Lieberman,Diane Lieberman
 Robert Terner,Peter Speliopoulas,Randy Kemper
 Russ Steele,Claudia Aronow
@@ -89966,10 +89966,10 @@ Carmel Campos,Sarah Nagy
 Paul Johnson-Calderon,Stephanie Wei
 Mariah Chase,Lesley Gurkin
 Peter Pennoyer,Lisa Genova,William H. Wright
-William M. Mooney,Jr.,Mark F. Rockefeller,Robert Douglass
-William M. Mooney,Jr.,Robert P. Weisz
+William M. Mooney,Mark F. Rockefeller,Robert Douglass
+William M. Mooney,Robert P. Weisz
 John Ellis,Susan Ellis,Jan Adelson,Elizabeth Bracken Thomas,Caryl Plunkett,Geoffrey Thompson
-Russ Feroe,Louise Feroe,Megan French,Cristina French,Al DelBello,Richard E. French,Jr.
+Russ Feroe,Louise Feroe,Megan French,Cristina French,Al DelBello,Richard E. French, 
 Charles J. Urstadt,Howard P. Milstein
 Donna Schwartz,Emily Israel,Barbara Israel,Marvin Schwartz
 Timothy Carey,Andrew Spano,Philip Zegarelli
@@ -90260,7 +90260,7 @@ Camilla di,Charles di
 Mafalda von Hessen,Ferdinando Brachetti Peretti
 Eleonora Rajneri,Serge di Jugoslavia
 Jenny Bransford,Pat Bransford,David Dinkins,Kathy Bransford Zukerman
-Carol Sutton Lewis,William M. Lewis,Jr.
+Carol Sutton Lewis,William M. Lewis, 
 Tatum O'Neill
 David Dinkins,Andrea DuBois,Patricia Bransford,Maurice DuBois
 Aurthur Barnes,David Dinkins,Vernon Jordan,Hugh Price
@@ -90389,7 +90389,7 @@ Vernon Jordan,Robert Butler,Barbara Walters,Donald Marron
 Gen. Colin Powell,Theodore Forstmann,Donald Marron
 Jay Kernis,Liz Smith
 Catie Marron,Donald Marron
-Donald Marron,Arthur Sulzberger Jr.
+Donald Marron,Arthur Sulzberger  
 Donald Marron,Henry Kissinger
 Marguerite W. Kondracke,Thomas G. Cigarran
 Tim Russert,Donald Marron
@@ -90889,7 +90889,7 @@ Amanda Hearst
 Arden Wohl,Bonnie Morrison
 Byrdie Bell
 Dancing ...
-Sarah Michelle Gellar,Freddie Prinze Jr.
+Sarah Michelle Gellar,Freddie Prinze  
 Kauretsi Wohl,Arden Wohl
 Bec Stupak
 Celerie Kemble,Meredith Melling Burke
@@ -90956,7 +90956,7 @@ David Maynard,Lorraine Totaro
 Ted Schlein,Tee Beller,Phillip Schlein
 David Kener,Joanne Woodward,Boaty Boatwright
 Frank Trotta,Sharon Trotta
-Woodie King,Jr.
+Woodie King, 
 Arnold Aronson,Sheila Aronson
 Victor Gotbaum,Betsey Gotbaum
 Richard Schiff
@@ -91191,7 +91191,7 @@ J. D. McClatchy,Chip Kidd
 Lynn Nesbit,Elizabeth Rohatyn
 David Benioff,Amanda Peet,Jean Vallely Graham,A. Scott Berg
 Richard L. Feigen,Isabel Harnoncourt
-Henry Louis Gates,Jr.,Lynn Nesbit,Elizabeth Rohatyn
+Henry Louis Gates,Lynn Nesbit,Elizabeth Rohatyn
 Richard E.,Mary Oldenburg
 John Ashbery,J. D. McClatchy
 Garrison Keillor
@@ -91199,7 +91199,7 @@ Jean Vallely Graham,A. Scott Berg,David Benioff,Amanda Peet
 Lydia Fenet
 Deborah Norville,Amy Sedaris
 Eddy Bayarelle,Alyssa Moeder,Claudia Kahn
-Deborah Norville,Howard Phipps,Jr.,Margaret Seider
+Deborah Norville,Howard Phipps,Margaret Seider
 Eddy Bayarelle,Board Carmen Dubroc
 Deborah Norville,Carol Hamilton,Michael Trese
 Sheri Wilson-Gray,Lisa Strickland Harris,Patrice Tanaka
@@ -91320,7 +91320,7 @@ Chris Turcotte,Susan Turcotte
 Gillian Miniter,Sylvester Miniter
 Kristen McGinnis,Caitlin Tashjian,Coralie Charriol Paul,Samantha Topping
 Jessica Campbell,Denise Sadowski
-Cab Calloway Jr.
+Cab Calloway  
 Cynthia Clark,Wesley Oler
 Emily Hanna,Sabrina Idy
 Marina Lucia,Darius Nemati
@@ -91340,7 +91340,7 @@ Aiden Turner,Megan Turner
 Caitlin Kelly,Nick Weil
 Cheryl Nieman,Eric Trump
 Dhani Jones
-Donald Trump Jr.,Vanessa Trump
+Donald Trump  ,Vanessa Trump
 Jus Ske
 Byrdie Bell
 Dalia Oberlando,Andrew Freston
@@ -91583,7 +91583,7 @@ Thakoon Panichgul,Rachel Zoe
 Sean Penn,Helena Christensen,Ryan Gosling,Amy Sacco,Donna Gosling
 Angus Wilkie,James Reginato,Amy Sacco,Len Morgan
 High Voltage,RuPaul
-James Pickens,Jr.,Christopher Wright
+James Pickens,Christopher Wright
 Chad White,Richie Rich
 Jansen,Mercedes Abramo,Michael Boyle,Gabriel Danaher
 Alan Berger,Eden Rosenblu,Matthew Hiltzik
@@ -91783,7 +91783,7 @@ Brian Williams
 Bill Clinton
 Harvey Weinstein
 Betsey Lack,Charlie Rose
-Jill Goodacre,Harry Connick Jr.
+Jill Goodacre,Harry Connick  
 John Hess,Martha Stewart
 Mort Zuckerman
 Ryan Makinson,Anne Ford
@@ -91899,7 +91899,7 @@ Vivienne Tam,Tracy Stern
 Samantha Shefts,Melissa Foss
 Kate Schelter
 Michael Murphy,Adam Stern
-Karen Labrecque Shea,Tom Labrecque,Jr,Sheila Labrecque,Doug Labrecque,Barbara Labrecque Corbin
+Karen Labrecque Shea,Tom Labrecque, Sheila Labrecque,Doug Labrecque,Barbara Labrecque Corbin
 Dan Lufkin,Sheila Labrecque,Cynthia Lufkin,Schuyler Lufkin
 Robyn Joseph,Gillian Miniter,Samantha Topping,Sheila Labrecque,Nancy Missett,Elaine Ward,Regina Peruggi,Bonnie Pope
 Susan Sandlass,Hank Sandlass
@@ -91978,7 +91978,7 @@ Lucinda Ziesling,Julianna Margulies
 Leigh Keno,Nicholas Schorsch,Shelley Schorsch,Leslie Keno
 Mary Turino,Vicki Ford
 Lillian Feldshuh,Tovah Feldshuh
-Monika Heimbold,Charles Heimbold,Jr.,Joanna Heimbold
+Monika Heimbold,Charles Heimbold,Joanna Heimbold
 Ruth,Jay,Lucy Pack
 Erin McKinnon
 Carolyn,Tracy,Ben,Robert Williams
@@ -91998,7 +91998,7 @@ Adrian Benepe
 George Gould,Darcy Gould
 Kristen,Caroline,Emily Mahan,Elizabeth Fuller,Olivia Fuller
 Kai Franks
-Catherine,Bryan,Jr.,Paul Carey
+Catherine,Bryan,Paul Carey
 Emily Post
 Harry Slatkin,Memrie M. Lewis
 Mark Hachadourian
@@ -92021,7 +92021,7 @@ Jeremy H. Biggs
 Mish Tworkowski
 Vladimir Kanevsky,Edwina Kanevsky
 Jeremy H. Biggs,Beth Dater Jennings
-James Benenson,Jr.
+James Benenson, 
 Lisa Perry,Eliot Spitzer
 Cindy Adams,Silda Wall Spitzer
 Silda Wall Spitzer,Joel Klein,Maggie Jones
@@ -92512,7 +92512,7 @@ Lauren Ezersky,Jane Hobson
 Michele Gerber Klein
 Roberto Dutesco
 Sylvia Plachy
-Cornelia Guest,Aldon James Jr.
+Cornelia Guest,Aldon James  
 Harriette Rose Katz,Jeffrey Selden
 Alexander Asseily,Susan Moffat
 Aymeric Fraise,Mariah Chase,Nicholas Whyatt
@@ -93098,13 +93098,13 @@ Irv Goldman,Barbara Goldman
 Jerilyn Kronen,Risa Pulver,Irv Goldman,Barbara Goldman,Sandy Cahn
 Adam Tantleff,Marvin Hamlisch,Mona Ackerman,Rabbi Marc Schneier
 John J. Connolly,Delos M. Cosgrove,John K. Castle
-John J. Connolly,Arthur Hull Hayes,Jr.,David A. Kessler,John K. Castle
+John J. Connolly,Arthur Hull Hayes,David A. Kessler,John K. Castle
 Rosanna S,John S
 John J. Connolly,Patrick C. Walsh,John K. Castle
-John J. Connolly,Arthur Hull Hayes,Jr.,John K. Castle
-Arthur Hull Hayes,Jr.,John J. Connolly,Patrick C. Walsh,Nancy G. Brinker,Delos M. Cosgrove,Joseph G. McCarthy,Maria Delivoria-Papadopolous,John K. Castle,David A. Kessler
+John J. Connolly,Arthur Hull Hayes,John K. Castle
+Arthur Hull Hayes,John J. Connolly,Patrick C. Walsh,Nancy G. Brinker,Delos M. Cosgrove,Joseph G. McCarthy,Maria Delivoria-Papadopolous,John K. Castle,David A. Kessler
 Alexa Haven,Tom Riles
-Arthur Hull Hayes,Jr.,Patrick C. Walsh,Nancy G. Brinker,Delos M. Cosgrove,Joseph G. McCarthy,Maria Delivoria-Papadopolous,David A. Kessler
+Arthur Hull Hayes,Patrick C. Walsh,Nancy G. Brinker,Delos M. Cosgrove,Joseph G. McCarthy,Maria Delivoria-Papadopolous,David A. Kessler
 John J. Connolly,Maria Delivoria-Papadopolous,John K. Castle
 John J. Connolly,Nancy G. Brinker,John K. Castle
 Leighton Smith,Jonnette Smith,Mike Roizen
@@ -93430,20 +93430,20 @@ Marina Rust Connor,Tinsley Mortimer
 Mariana Sabater,Elisabeth Saint-Amand,Lydia Fenet,Tinsley Mortimer,Marina Rust Connor,Martha Loring,Nathalie Gerschel Kaplan
 Mariana Sabater,Elisabeth Saint-Amand,Lydia Fenet,Tinsley Mortimer,Angel Sanchez,Marina Rust Connor,Martha Loring,Nathalie Gerschel Kaplan,Lauren du Pont
 Stephen Sans,Gillian Miniter,Elizabeth Finkle,Alison Minton,James Killerlane
-John Loeb Jr.,June Bingham Birge,Robert Morgenthau
+John Loeb  ,June Bingham Birge,Robert Morgenthau
 Ben Morgenthau,Robert P. Morgenthau,Joan Morgenthau Bright
-John Loeb Jr.,Rabbi Ron Sobel
+John Loeb  ,Rabbi Ron Sobel
 Howard Rossbach,Kenneth Libo
 Edgar Bronfman,Adam Bronfman
-Claudia Meyers,John Loeb Jr,Sherry Bingham Downes,June Bingham Birge
+Claudia Meyers,John Loeb  Sherry Bingham Downes,June Bingham Birge
 Irving Straus,Lucinda Morgenthau,Robert Morgenthau,Anna Straus
-Judy Chiara,John Loeb Jr.,Anne Bronfman,Arthur Loeb
+Judy Chiara,John Loeb  ,Anne Bronfman,Arthur Loeb
 Sharon Handler,Martin Lehman,Maureen McCloskey Oxenberg
 Anne Bronfman,Edgar Bronfman
 Anna Pettersson,Nicholas Loeb
-Ken Libo,John Loeb Jr.
+Ken Libo,John Loeb  
 Robert Morgenthau,Robert Morgenthau,Jenny Morgenthau
-William Bernhard,Robert Morgenthau,June Bingham Birge,John Loeb Jr.
+William Bernhard,Robert Morgenthau,June Bingham Birge,John Loeb  
 Martin Lehman,Joanne Sobel
 Ricardo Fernandez
 Natalie Davies,Taran Davies
